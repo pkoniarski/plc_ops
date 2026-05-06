@@ -1,0 +1,2892 @@
+{
+ "opening_prayers": [
+  "Lord, help us live the Scout Oath tonight — to do our duty, help others, and keep cheerful hearts. Amen.",
+  "Thank You, God, for bringing us together. May we work as one patrol and one troop. Amen.",
+  "Guide our thoughts, O Lord, that this meeting builds friendship, wisdom, and service. Amen.",
+  "Heavenly Father, bless our troop, our leaders, and our Scouts that we may learn and lead with honor. Amen.",
+  "Lord, help us speak kindly, listen well, and act with purpose as true Scouts. Amen.",
+  "Thank You for giving us skills to learn, goals to reach, and friends to share them with. Amen.",
+  "God, make us grateful for the time we spend together and the lessons You teach us through Scouting. Amen.",
+  "Help us remember the Scout Law in all we do: trustworthy, loyal, helpful, and kind. Amen.",
+  "Lord, bless this meeting that it may strengthen our troop and shape better citizens. Amen.",
+  "Heavenly Father, guide our hands to work, our minds to learn, and our hearts to serve. Amen.",
+  "Lord, keep our troop united in purpose, cheerful in spirit, and loyal in service. Amen.",
+  "Thank You, God, for the chance to grow tonight — in knowledge, courage, and friendship. Amen.",
+  "Bless our patrol leaders and all who guide us; may they lead with fairness and humility. Amen.",
+  "Lord, give us the patience to listen, the courage to speak truth, and the wisdom to know the difference. Amen.",
+  "We thank You for Scouting — for the outdoors, for adventure, and for the chance to serve others. Amen.",
+  "Heavenly Father, help us make decisions that honor You and build up our troop. Amen.",
+  "Lord, grant that this meeting brings learning, laughter, and lasting friendship. Amen.",
+  "Bless our time together and the leaders who help us grow in faith and skill. Amen.",
+  "God, help us live by the Scout Motto — to be prepared in body, mind, and spirit. Amen.",
+  "Lord, make our troop strong in teamwork, humble in success, and gracious in challenge. Amen.",
+  "Thank You, Lord, for another night to learn, serve, and have fun as Scouts. Amen.",
+  "Help us, God, to be a light to others — showing kindness, respect, and cheerful hearts. Amen.",
+  "Bless our meeting and all who lead, that we may serve our community well. Amen.",
+  "Lord, keep us safe tonight and guide our plans for the adventures ahead. Amen.",
+  "God, teach us to care for Your creation as good stewards of the earth. Amen.",
+  "Thank You for the gift of Scouting, where we learn to lead, follow, and serve. Amen.",
+  "Heavenly Father, grant us focus, fairness, and fellowship in all we do tonight. Amen.",
+  "Lord, may our actions tonight show honor, duty, and respect for one another. Amen.",
+  "God, bless our troop family, and help us carry the spirit of Scouting into our homes. Amen.",
+  "Thank You, Lord, for giving us this chance to learn and grow together. Amen.",
+  "Heavenly Father, let this meeting remind us that service is the heart of leadership. Amen.",
+  "Lord, give us strength for our tasks and joy in our teamwork. Amen.",
+  "Thank You for giving us leaders who guide and Scouts who follow with respect. Amen.",
+  "God, help us see the best in one another and lift each other higher. Amen.",
+  "Bless our time together and help us to leave this place better than we found it. Amen.",
+  "Lord, keep our words kind, our hearts open, and our spirits strong. Amen.",
+  "Thank You, God, for fellowship, faith, and fun — the true treasures of Scouting. Amen.",
+  "Heavenly Father, may our actions tonight reflect Your light and the ideals of Scouting. Amen.",
+  "Lord, help us stay trustworthy in our words and actions, even when no one is watching. Amen.",
+  "Thank You for giving us the courage to lead and the humility to serve. Amen.",
+  "Lord, bless this meeting with laughter, learning, and lasting memories. Amen.",
+  "God, help us see challenges as chances to grow and learn. Amen.",
+  "Bless those who cannot be here tonight and keep all Scouts safe wherever they are. Amen.",
+  "Lord, teach us to be kind to one another and grateful for this troop family. Amen.",
+  "Thank You for giving us the strength to face challenges with cheerful hearts. Amen.",
+  "God, guide our leaders, inspire our Scouts, and bless all who serve. Amen.",
+  "Lord, let this meeting be filled with teamwork, understanding, and the Scout Spirit. Amen.",
+  "Thank You for the gift of learning — may we use it to make the world better. Amen.",
+  "Heavenly Father, remind us that small acts of kindness can make a big difference. Amen.",
+  "Lord, bless our troop with friendship, wisdom, and the courage to do what’s right. Amen."
+ ],
+ "closing_prayers": [
+  "Lord, thank You for the fellowship and learning we shared tonight. Help us carry the Scout Spirit home with us. Amen.",
+  "Heavenly Father, bless us as we go our separate ways. May we live out the Scout Law in our daily lives. Amen.",
+  "Lord, thank You for this time together. Help us serve others with cheerful hearts until we meet again. Amen.",
+  "God, may what we learned tonight guide us in doing our duty to You, our country, and each other. Amen.",
+  "Heavenly Father, bless our leaders and Scouts. Keep us safe and help us grow in wisdom and kindness. Amen.",
+  "Thank You, Lord, for a meeting filled with laughter, learning, and friendship. Be with us until we gather again. Amen.",
+  "Lord, remind us that Scouting is not just meetings, but a way of life filled with service, trust, and faith. Amen.",
+  "God, as we leave this place, may our actions honor You and reflect the Scout Oath and Law. Amen.",
+  "Heavenly Father, thank You for guiding our troop tonight. Help us walk in truth, kindness, and courage. Amen.",
+  "Lord, may we leave here better Scouts and better friends than when we arrived. Amen.",
+  "Thank You, God, for giving us strength to work together. Help us remember that every good deed counts. Amen.",
+  "Lord, bless our patrols and leaders. Help us use what we’ve learned to serve others this week. Amen.",
+  "God, thank You for bringing us together in friendship. Keep us safe and strong in the days ahead. Amen.",
+  "Heavenly Father, grant us rest tonight and courage for the adventures ahead. Amen.",
+  "Lord, as we go, help us live the Scout Law not just in word, but in spirit. Amen.",
+  "God, we thank You for our troop family and for the chance to grow together in service and faith. Amen.",
+  "Heavenly Father, may the lessons of tonight shine in our actions tomorrow. Amen.",
+  "Lord, bless our families and friends, and keep all Scouts safe wherever they travel. Amen.",
+  "Thank You for helping us learn and lead tonight, Lord. May our hands always be ready to help others. Amen.",
+  "God, bless our troop with unity, laughter, and lasting friendship until we meet again. Amen.",
+  "Lord, thank You for another night of Scouting. Help us remember to be kind, honest, and brave this week. Amen.",
+  "Heavenly Father, keep the Scout Spirit alive in us — in school, at home, and everywhere we go. Amen.",
+  "Lord, we’re thankful for leaders who guide us and friends who support us. Bless them always. Amen.",
+  "God, thank You for all we accomplished tonight. Help us to live what we’ve learned. Amen.",
+  "Lord, make us grateful for this troop, this church, and the joy of being Scouts. Amen.",
+  "Heavenly Father, may our words and actions reflect Your love in all we do. Amen.",
+  "Thank You, God, for this meeting and for the chance to be part of something bigger than ourselves. Amen.",
+  "Lord, bless our leaders for their time and care. Help us honor them by doing our best. Amen.",
+  "Heavenly Father, teach us to serve without seeking reward and to lead without pride. Amen.",
+  "Lord, may the friendships we build here carry us through life’s adventures. Amen.",
+  "Thank You, Lord, for laughter, lessons, and loyalty — the gifts of Scouting. Amen.",
+  "Heavenly Father, as we close this meeting, open our hearts to Your guidance. Amen.",
+  "God, we thank You for teaching us teamwork and trust. Help us use them to make the world better. Amen.",
+  "Lord, help us carry the light of Scouting into our homes and schools. Amen.",
+  "Thank You for the wisdom shared and the fellowship enjoyed tonight. Bless our path ahead. Amen.",
+  "Heavenly Father, grant us rest, peace, and courage to live by the Scout Oath each day. Amen.",
+  "Lord, thank You for our troop and the spirit that unites us. Keep that flame alive. Amen.",
+  "God, help us see the good in every person and the lesson in every challenge. Amen.",
+  "Heavenly Father, thank You for this time together — may it strengthen both our faith and our friendships. Amen.",
+  "Lord, bless us as we go forth to serve others and live as Scouts in the world. Amen.",
+  "Thank You, Lord, for helping us grow in skill and spirit. Be with us until we meet again. Amen.",
+  "Heavenly Father, may the lessons of tonight inspire us to be better Scouts tomorrow. Amen.",
+  "Lord, thank You for the laughter we shared and the work we accomplished. Watch over us as we travel home. Amen.",
+  "God, keep our hearts strong and our hands ready to help others in need. Amen.",
+  "Heavenly Father, bless our troop’s journey and help us remember that we’re all brothers and sisters in Scouting. Amen.",
+  "Lord, thank You for teaching us to work as a team and to lead with kindness. Amen.",
+  "God, may our troop always be a place of respect, service, and joy. Amen.",
+  "Heavenly Father, guide us as we live by the Scout Oath in all that we do. Amen.",
+  "Lord, thank You for every Scout here tonight. May we all go forth with cheerful hearts. Amen.",
+  "God, bless our troop, our church, and our community — and may the Scout Spirit shine through us all. Amen."
+ ],
+ "games": {
+  "Scout Skill Games": [
+   {
+    "name": "Knot Relay",
+    "desc": "tie specific knots at each station before tagging the next Scout."
+   },
+   {
+    "name": "Blindfold Tent Pitch",
+    "desc": "patrols race to set up a tent blindfolded (verbal guidance only)."
+   },
+   {
+    "name": "Fire-Building Race",
+    "desc": "first patrol to burn through a string wins."
+   },
+   {
+    "name": "Map Symbol Match",
+    "desc": "scatter map symbols; teams collect and define them."
+   },
+   {
+    "name": "Compass Course Scramble",
+    "desc": "quick orienteering challenge inside or outdoors."
+   },
+   {
+    "name": "First-Aid Scenarios",
+    "desc": "mock accident; patrol treats and explains actions."
+   },
+   {
+    "name": "Lashing Challenge",
+    "desc": "build a working gadget (table, tripod) in 15 minutes."
+   },
+   {
+    "name": "Survival Island",
+    "desc": "limited items; decide as a group what’s essential."
+   },
+   {
+    "name": "Mystery Plant ID",
+    "desc": "ID labeled local plants for points."
+   },
+   {
+    "name": "Knot-to-Knot",
+    "desc": "one Scout ties half a knot, another completes it blindfolded."
+   }
+  ],
+  "Team Strategy & Leadership": [
+   {
+    "name": "Patrol Capture the Flag",
+    "desc": "add objectives like rescuing a “wounded Scout.”"
+   },
+   {
+    "name": "Night Navigation",
+    "desc": "silent movement game using red lights and stealth."
+   },
+   {
+    "name": "Communication Breakdown",
+    "desc": "leader describes a structure others must build unseen."
+   },
+   {
+    "name": "Patrol Auction",
+    "desc": "bid “Scout Bucks” on items needed for a mystery task."
+   },
+   {
+    "name": "Command Chain",
+    "desc": "whisper instructions down the patrol line; last executes them."
+   },
+   {
+    "name": "Leader Swap",
+    "desc": "mid-game, leadership passes to another Scout."
+   },
+   {
+    "name": "Minefield",
+    "desc": "one blindfolded Scout guided verbally through obstacles."
+   },
+   {
+    "name": "Mission Impossible",
+    "desc": "complete small puzzles under time pressure with code clues."
+   },
+   {
+    "name": "Flag Defense",
+    "desc": "build and defend a base with ropes or tarps."
+   },
+   {
+    "name": "Obstacle Planning",
+    "desc": "design and run a patrol obstacle course."
+   }
+  ],
+  "Outdoor / Field Games": [
+   {
+    "name": "Steal the Bacon",
+    "desc": "numbered Scouts race to grab the “bacon” (pillow, cone)."
+   },
+   {
+    "name": "Human Knot",
+    "desc": "classic teamwork untangling."
+   },
+   {
+    "name": "Scout Dodgeball",
+    "desc": "answer a Scout Law question to re-enter play."
+   },
+   {
+    "name": "Water Balloon Catapult",
+    "desc": "lash a catapult; see who launches furthest."
+   },
+   {
+    "name": "Sponge Tag",
+    "desc": "with soaked sponges; good for hot nights."
+   },
+   {
+    "name": "Tarp Flip",
+    "desc": "everyone must stand on a tarp and flip it without stepping off."
+   },
+   {
+    "name": "Capture the Compass",
+    "desc": "scavenger twist on Capture the Flag."
+   },
+   {
+    "name": "Patrol Tug-of-War",
+    "desc": "rotate winners bracket."
+   },
+   {
+    "name": "Frisbee Golf",
+    "desc": "improvised course with cones or trees."
+   },
+   {
+    "name": "Scout Olympics",
+    "desc": "4-station event: knot tie, fire light, run, lash, repeat."
+   }
+  ],
+  "Problem-Solving & STEM": [
+   {
+    "name": "Egg Drop Engineering",
+    "desc": "build a contraption to protect an egg."
+   },
+   {
+    "name": "Paper Tower",
+    "desc": "tallest freestanding structure from paper and tape."
+   },
+   {
+    "name": "Marshmallow Catapult",
+    "desc": "launch at targets with limited materials."
+   },
+   {
+    "name": "Bridge Builder",
+    "desc": "craft bridge from popsicle sticks; must hold a weight."
+   },
+   {
+    "name": "Scout Code Breaker",
+    "desc": "decode cipher message for next clue."
+   },
+   {
+    "name": "Electrical Circuit Relay",
+    "desc": "complete a simple LED circuit to “win.”"
+   },
+   {
+    "name": "Water Filter Race",
+    "desc": "fastest to produce clear filtered water."
+   },
+   {
+    "name": "Rocket Launch",
+    "desc": "straw or balloon rockets for distance accuracy."
+   },
+   {
+    "name": "Map Maze",
+    "desc": "hidden clues revealed only by solving coordinate riddles."
+   },
+   {
+    "name": "Balloon Hovercraft",
+    "desc": "build small hovercrafts with CDs and balloons."
+   }
+  ],
+  "Quick Indoor / Icebreaker Games": [
+   {
+    "name": "Scout Jeopardy",
+    "desc": "custom categories: knots, history, laws, camping."
+   },
+   {
+    "name": "Two Truths & a Lie",
+    "desc": "but about camp experiences."
+   },
+   {
+    "name": "What’s Missing?",
+    "desc": "remove one item from a gear table; Scouts identify it."
+   },
+   {
+    "name": "Scout Says",
+    "desc": "“Simon Says” using Scout commands."
+   },
+   {
+    "name": "Human Bingo",
+    "desc": "find someone who’s earned a certain merit badge."
+   },
+   {
+    "name": "Scout Law Charades",
+    "desc": "act out points of the Law silently."
+   },
+   {
+    "name": "Minute-to-Win-It Challenges",
+    "desc": "coins, cups, marshmallows."
+   },
+   {
+    "name": "Memory Kim’s Game",
+    "desc": "30 seconds to memorize gear, then recall."
+   },
+   {
+    "name": "Trivia Trail",
+    "desc": "patrols move across a board by answering questions."
+   },
+   {
+    "name": "Balloon Relay",
+    "desc": "transport balloons with elbows, no hands allowed."
+   }
+  ]
+ },
+ "skills": {
+  "Outdoor & Survival Skills": [
+   "Demonstrate proper fire-building (teepee, log cabin, and lean-to).",
+   "Light a fire with one match (or none using flint and steel).",
+   "Identify 10 native plants and their uses.",
+   "Purify water using three different methods.",
+   "Build an emergency shelter from natural materials.",
+   "Demonstrate safe knife, saw, and axe use (Totin’ Chip review).",
+   "Cook a simple meal without pots or pans.",
+   "Pack a personal survival kit (and explain each item).",
+   "Tie and use the taut-line hitch for tent setup.",
+   "Make and use a simple solar still."
+  ],
+  "Navigation & Orienteering": [
+   "Orient a map using a compass.",
+   "Measure pace count and estimate distances.",
+   "Find bearings between two points.",
+   "Create a basic compass course around the meeting area.",
+   "Use GPS/Geocaching to locate a hidden object.",
+   "Read a topographic map and identify contour features.",
+   "Triangulate your location using map and compass.",
+   "Use natural navigation (sun, stars, moss, etc.).",
+   "Plan a 1-mile hike route on a local map.",
+   "Decode coordinates to find a hidden clue or riddle."
+  ],
+  "Camping & Pioneering": [
+   "Pitch a tent correctly in under 5 minutes.",
+   "Build a clothesline, table, or tripod using lashings.",
+   "Demonstrate safe campsite setup (fire, food, sanitation).",
+   "Lash together a camp gadget (paper towel stand, lantern pole).",
+   "Identify the 10 essentials for any outing.",
+   "Build a working catapult or signal tower.",
+   "Demonstrate proper tarp setup and rain fly angles.",
+   "Explain Leave No Trace principles in action.",
+   "Demonstrate proper food storage in bear country.",
+   "Create a mock patrol campsite layout on the floor."
+  ],
+  "First Aid & Safety": [
+   "Demonstrate CPR on a manikin or dummy.",
+   "Treat cuts, burns, and blisters properly.",
+   "Make a splint using only what’s in your pack.",
+   "Carry an injured person using two-person techniques.",
+   "Identify and treat heat exhaustion and hypothermia.",
+   "Create a home emergency plan and family contact list.",
+   "Demonstrate choking rescue techniques.",
+   "Assemble a personal first-aid kit.",
+   "Practice emergency signals for distress and help.",
+   "Teach how to recognize poisonous plants and animals."
+  ],
+  "Scouting Leadership & Communication": [
+   "Conduct a proper flag ceremony.",
+   "Lead a patrol in setting up a duty roster.",
+   "Demonstrate effective patrol yell and teamwork challenge.",
+   "Practice giving clear directions (blindfold navigation).",
+   "Plan a 5-minute patrol meeting agenda.",
+   "Use the EDGE method to teach a knot or skill.",
+   "Practice radio/whistle signal communication.",
+   "Demonstrate proper uniform inspection.",
+   "Conduct a Scoutmaster conference roleplay.",
+   "Lead a reflection/debrief session after a mini-game."
+  ]
+ },
+ "team_building": {
+  "Leadership & Communication Challenges": [
+   {
+    "name": "Blind Builder",
+    "desc": "one Scout gives verbal directions; another builds a Lego or stick structure blindfolded."
+   },
+   {
+    "name": "Lost on the Moon",
+    "desc": "teams rank survival items by importance, then compare to NASA’s expert list."
+   },
+   {
+    "name": "Chain of Command",
+    "desc": "Scouts must pass complex instructions down a line without writing."
+   },
+   {
+    "name": "Message Relay",
+    "desc": "whisper a detailed map or code through the patrol; accuracy earns points."
+   },
+   {
+    "name": "Scout Auction",
+    "desc": "bid on random items and use them creatively for a surprise task."
+   },
+   {
+    "name": "Follow the Leader (with a twist)",
+    "desc": "the leader changes mid-task; others must adapt quickly."
+   },
+   {
+    "name": "Helium Stick",
+    "desc": "lower a long stick to the ground using only fingertips — teamwork essential."
+   },
+   {
+    "name": "Leadership Circle",
+    "desc": "each Scout leads a mini-task (song, knot, game) within 2 minutes."
+   },
+   {
+    "name": "Blindfold Maze",
+    "desc": "one Scout is blindfolded, the rest guide them through obstacles using voice only."
+   },
+   {
+    "name": "Mission Briefing",
+    "desc": "Scouts receive limited info and must create a clear plan before acting."
+   }
+  ],
+  "Problem Solving & Critical Thinking": [
+   {
+    "name": "The Great Egg Drop",
+    "desc": "build a device to protect an egg from a fall."
+   },
+   {
+    "name": "Spaghetti Tower",
+    "desc": "tallest freestanding tower using spaghetti and marshmallows."
+   },
+   {
+    "name": "Lash the Bridge",
+    "desc": "build a rope bridge across a “ravine” (marked area)."
+   },
+   {
+    "name": "River Crossing",
+    "desc": "cross a “river” using limited stepping stones (boards, paper plates)."
+   },
+   {
+    "name": "Mystery Box Challenge",
+    "desc": "random materials must solve a stated problem (filter water, lift weight)."
+   },
+   {
+    "name": "Escape Room in a Box",
+    "desc": "series of coded puzzles that lead to a combination or key."
+   },
+   {
+    "name": "The Knot Challenge",
+    "desc": "all members are tied together; must untie without removing ropes."
+   },
+   {
+    "name": "Tarp Turn",
+    "desc": "the entire patrol stands on a tarp and flips it over without stepping off."
+   },
+   {
+    "name": "Bridge the Gap",
+    "desc": "move an object across a “gap” without touching the floor."
+   },
+   {
+    "name": "Build the Tallest Flagpole",
+    "desc": "limited materials, must stand for 10 seconds."
+   }
+  ],
+  "Trust & Cooperation": [
+   {
+    "name": "Trust Fall Circle",
+    "desc": "one Scout stands in center, others catch them gently as they lean."
+   },
+   {
+    "name": "Blind Trail",
+    "desc": "follow a rope through the woods blindfolded, relying on teammate cues."
+   },
+   {
+    "name": "Guide Dog",
+    "desc": "blindfolded partner guided through obstacles safely."
+   },
+   {
+    "name": "Minefield Walk",
+    "desc": "one guides another verbally through a “minefield” of objects."
+   },
+   {
+    "name": "Trust Bridge",
+    "desc": "team crosses an obstacle using only each other’s hands and shoulders."
+   },
+   {
+    "name": "Team Balloon Balance",
+    "desc": "hold a balloon between shoulders or knees without dropping it."
+   },
+   {
+    "name": "Human Machine",
+    "desc": "each Scout becomes a moving part of a machine to solve a task."
+   },
+   {
+    "name": "Body Shapes",
+    "desc": "team must form letters, numbers, or shapes with their bodies."
+   },
+   {
+    "name": "Human Ladder",
+    "desc": "Scouts kneel and use arms as rungs to pass teammates through."
+   },
+   {
+    "name": "Buddy Walk",
+    "desc": "two Scouts tied at the ankle complete a challenge course together."
+   }
+  ],
+  "Outdoor & Physical Team Events": [
+   {
+    "name": "Scout Olympics",
+    "desc": "four patrol events combining skill and teamwork."
+   },
+   {
+    "name": "Raft-Building Challenge",
+    "desc": "lash logs and barrels to float across a pool or lake."
+   },
+   {
+    "name": "Fire-Builder Relay",
+    "desc": "collect tinder, kindling, and wood, build a fire that burns a string."
+   },
+   {
+    "name": "Campsite Setup Race",
+    "desc": "fastest team to properly pitch and organize camp wins."
+   },
+   {
+    "name": "Rescue Mission",
+    "desc": "move an “injured” Scout on a stretcher through obstacles."
+   },
+   {
+    "name": "Orienteering Challenge",
+    "desc": "find checkpoints as a team using compass bearings."
+   },
+   {
+    "name": "Patrol Pioneering Project",
+    "desc": "build a camp gateway or tower."
+   },
+   {
+    "name": "Rope Course Navigation",
+    "desc": "low-rope course requiring spotting and coordination."
+   },
+   {
+    "name": "Scout Triathlon",
+    "desc": "team relay of run, lash, and knot-tie events."
+   },
+   {
+    "name": "Obstacle Construction",
+    "desc": "team designs and builds a small obstacle course for another patrol."
+   }
+  ],
+  "Creativity & Collaboration": [
+   {
+    "name": "Patrol Skit Creation",
+    "desc": "Scouts write and perform a short skit based on a theme."
+   },
+   {
+    "name": "Patrol Flag Redesign",
+    "desc": "create a new patrol flag that represents teamwork."
+   },
+   {
+    "name": "Scout Commercials",
+    "desc": "each patrol “sells” a random item in a funny commercial."
+   },
+   {
+    "name": "Poster Challenge",
+    "desc": "make a poster showing the Scout Law in action."
+   },
+   {
+    "name": "Story Chain",
+    "desc": "each Scout adds one line to a continuous story."
+   },
+   {
+    "name": "Camp Song Remix",
+    "desc": "rewrite lyrics of a familiar tune to fit Scouting life."
+   },
+   {
+    "name": "Scout Spirit Video",
+    "desc": "record a one-minute video showcasing teamwork."
+   },
+   {
+    "name": "Logo Design Contest",
+    "desc": "create a design for next camporee or troop shirt."
+   },
+   {
+    "name": "Team Cheer Creation",
+    "desc": "invent a new patrol yell or chant."
+   },
+   {
+    "name": "Innovation Build",
+    "desc": "invent a new camping gadget using scrap materials."
+   }
+  ]
+ },
+ "challenges_10": [
+  {
+   "name": "Fire Starter Challenge",
+   "objective": "Start a fire and get it burning high enough to burn through a string 12 inches above the ground.",
+   "rules": "Use only natural tinder and one fire-starting method (flint & steel, matches, or a magnifying glass).\nThe first team to burn through the string wins."
+  },
+  {
+   "name": "Knots Relay",
+   "objective": "Tie 5 essential Scouting knots as quickly as possible.",
+   "rules": "Each Scout ties one knot, then tags the next teammate.\nFastest patrol to complete all knots correctly wins."
+  },
+  {
+   "name": "Compass Navigation Sprint",
+   "objective": "Follow a set of bearings to find a hidden object.",
+   "rules": "Each team gets a compass and a set of bearings (e.g., \"Go 20 steps at 90°\").\nFirst patrol to locate the hidden item wins."
+  },
+  {
+   "name": "Bandage Wrap Race",
+   "objective": "Properly wrap a simulated wound on a teammate.",
+   "rules": "One Scout must quickly bandage another Scout’s arm and leg.\nCorrect technique (snug but not too tight) is judged."
+  },
+  {
+   "name": "Shelter Speed Build",
+   "objective": "Build a functional lean-to shelter using only natural materials.",
+   "rules": "The shelter must be big enough for one person to fit under.\nJudges check for sturdiness and effectiveness."
+  },
+  {
+   "name": "Water Filter Challenge",
+   "objective": "Create a simple water filter using natural materials.",
+   "rules": "Scouts must filter murky water using rocks, sand, and charcoal.\nClearest water at the end wins."
+  },
+  {
+   "name": "Signal Fire / Smoke Signals",
+   "objective": "Create as much visible smoke as possible in 10 minutes.",
+   "rules": "Scouts must start a small fire and add green leaves or damp wood.\nThe team that produces the most visible smoke wins."
+  },
+  {
+   "name": "Trail Signs & Tracking",
+   "objective": "Follow a set of trail signs to find a hidden object.",
+   "rules": "One patrol lays out a course using tracking symbols.\nThe other patrol must decode them and find the hidden object."
+  },
+  {
+   "name": "Lash It Up",
+   "objective": "Build a tripod using three poles and lashings.",
+   "rules": "Teams must use a tripod lashing to create a freestanding structure.\nThe first patrol to finish with a stable tripod wins."
+  },
+  {
+   "name": "Orienteering Clue Hunt",
+   "objective": "Use a map and compass to find a hidden clue.",
+   "rules": "A clue is placed at a location on a simple orienteering course.\nFirst team to find and read the clue out loud wins."
+  }
+ ],
+ "edge": {
+  "Camping & Outdoor Skills": [
+   "Pitching a tent",
+   "Rolling a sleeping bag for packing",
+   "Setting up a rain fly or tarp shelter",
+   "Building a proper campfire (no ignition)",
+   "Packing a backpack efficiently"
+  ],
+  "Fire & Cooking": [
+   "Laying a fire (teepee, log cabin, etc.)",
+   "Safely lighting a camp stove (no fuel)",
+   "Cooking a foil pack meal",
+   "Washing dishes with the 3-pot method",
+   "Storing food using bear-safe methods"
+  ],
+  "Knots & Lashings": [
+   "Tying a square knot",
+   "Tying a taut-line hitch",
+   "Tying a bowline",
+   "Using a clove hitch and timber hitch for lashing",
+   "Making a tripod lashing and standing structure"
+  ],
+  "Navigation": [
+   "Orienting a map with a compass",
+   "Identifying landmarks on a map",
+   "Following a simple compass bearing",
+   "Estimating distance using pacing",
+   "Creating a simple trail sign using sticks and rocks"
+  ],
+  "First Aid": [
+   "Applying a triangular bandage as a sling",
+   "Wrapping an ankle or wrist",
+   "Performing the Heimlich maneuver (on a dummy or simulated)",
+   "Demonstrating the recovery position",
+   "Building a basic first aid kit and explaining its contents"
+  ]
+ },
+ "tuckman": {
+  "Forming": [
+   "A new patrol meets for the first time. Everyone is quiet and looking at the leader for direction.",
+   "Scouts just joined the troop—no one knows each other’s names or skills.",
+   "A patrol is assigned a camp task but doesn't know where to start or who should do what.",
+   "During a hike, the group spreads out without coordination because there’s no plan.",
+   "The SPL asks for volunteers, but everyone stays silent and avoids eye contact."
+  ],
+  "Storming": [
+   "Two Scouts argue over who should lead a group game.",
+   "A patrol disagrees about what time to wake up, and tempers flare.",
+   "Scouts are blaming each other for forgetting the cooking supplies.",
+   "During skit practice, one Scout wants to be the lead in every skit and won’t compromise.",
+   "A Scout refuses to participate, saying, “This is dumb,” while others try to stay focused."
+  ],
+  "Norming": [
+   "A patrol agrees on a chore schedule and follows it without being reminded.",
+   "Scouts help a new patrol member learn how to cook over a camp stove.",
+   "The team has a disagreement, talks it out calmly, and finds a solution.",
+   "Patrol members start sharing ideas and encouraging each other during planning.",
+   "A Scout volunteers to help another catch up on a missed skill without being asked."
+  ],
+  "Performing": [
+   "The patrol sets up camp, starts cooking, and prepares for a flag ceremony with no reminders.",
+   "During a hike, the patrol checks on each other’s water and pace without adult input.",
+   "The SPL delegates setup and cleanup effectively, and everything runs smoothly.",
+   "A patrol leads a younger patrol through fire-building with patience and skill.",
+   "Scouts quickly adapt to rain by moving gear and building a tarp shelter together."
+  ],
+  "Adjourning": [
+   "It’s the last day of summer camp—Scouts pack gear and share favorite memories.",
+   "A Scout steps down as PL and gives advice to the incoming leader.",
+   "A patrol finishes their camporee event and cleans up without being told.",
+   "The troop returns from a hike, debriefs what went well, and thanks their leaders.",
+   "After a successful fundraiser, Scouts take time to recognize everyone’s contributions."
+  ]
+ },
+ "gauntlet": {
+  "Outdoor Skills & Survival": [
+   {
+    "topic": "Fire Triangle",
+    "question": "What are the three elements needed for fire to burn?",
+    "answer": "Heat, Fuel, Oxygen"
+   },
+   {
+    "topic": "Survival Priority",
+    "question": "What’s the first thing you should do if you get lost in the woods?",
+    "answer": "Stay put & signal!"
+   },
+   {
+    "topic": "Lightning Safety",
+    "question": "If you're caught in a lightning storm with no shelter, what 3 things should you do?",
+    "answer": "Avoid tall objects, spread out, crouch low."
+   },
+   {
+    "topic": "Water Purification",
+    "question": "Name two ways to make water safe to drink in the wild.",
+    "answer": "Boiling, purification tablets, filter, etc."
+   },
+   {
+    "topic": "Shelter Smart",
+    "question": "What is the most important factor when setting up a survival shelter?",
+    "answer": "Protection from wind and rain."
+   },
+   {
+    "topic": "Animal Safety",
+    "question": "What should you do if you encounter a bear on the trail?",
+    "answer": "Stay calm, back away slowly, don’t run!"
+   },
+   {
+    "topic": "Compass Quick Draw",
+    "question": "Point North without using a compass.",
+    "answer": "Check shadows or the sun!"
+   },
+   {
+    "topic": "Animal Tracks",
+    "question": "What animal makes a two-hoof print that looks like a heart shape?",
+    "answer": "Deer"
+   },
+   {
+    "topic": "Backpacking Basics",
+    "question": "What’s the 10th essential in the Scout Outdoor Essentials?",
+    "answer": "Sun Protection!"
+   },
+   {
+    "topic": "Backpack Essentials",
+    "question": "Name at least 7 of the 10 Scout Outdoor Essentials.",
+    "answer": "Map, compass, sun protection, first aid kit, knife, fire starter, extra food, water, rain gear, emergency shelter."
+   }
+  ],
+  "First Aid & Emergency Preparedness": [
+   {
+    "topic": "First Aid Flashback",
+    "question": "What are the three C’s of first aid?",
+    "answer": "Check, Call, Care"
+   },
+   {
+    "topic": "Trail First Aid",
+    "question": "What’s the best way to treat a bee sting in the wild?",
+    "answer": "Scrape out the stinger, wash, and ice if possible!"
+   },
+   {
+    "topic": "Bleeding Basics",
+    "question": "What are the four steps to stop heavy bleeding?",
+    "answer": "Direct pressure, elevate, apply bandage, pressure point if needed."
+   },
+   {
+    "topic": "Hypothermia Help",
+    "question": "What’s the first step to treating mild hypothermia?",
+    "answer": "Get the person dry and warm."
+   },
+   {
+    "topic": "Snake Bite Safety",
+    "question": "What should you NOT do if bitten by a venomous snake?",
+    "answer": "Do not suck out venom, do not cut the wound, do not apply ice."
+   },
+   {
+    "topic": "Choking Challenge",
+    "question": "What’s the name of the maneuver used to help a choking person?",
+    "answer": "Heimlich maneuver or abdominal thrusts."
+   },
+   {
+    "topic": "Burn Treatment",
+    "question": "How should you treat a first-degree burn?",
+    "answer": "Cool water, no ice, aloe or burn cream."
+   },
+   {
+    "topic": "Frostbite Facts",
+    "question": "What part of the body is most at risk for frostbite?",
+    "answer": "Fingers, toes, nose, ears."
+   },
+   {
+    "topic": "Sprain or Break?",
+    "question": "What’s the acronym for treating a sprained ankle?",
+    "answer": "RICE – Rest, Ice, Compression, Elevation."
+   },
+   {
+    "topic": "CPR Callout",
+    "question": "How many chest compressions per minute should you do in CPR?",
+    "answer": "100-120 per minute."
+   }
+  ],
+  "Scouting Knowledge & Leadership": [
+   {
+    "topic": "Scout Law Scramble",
+    "question": "Name all 12 points of the Scout Law in order.",
+    "answer": "Trustworthy, Loyal, Helpful, Friendly, etc."
+   },
+   {
+    "topic": "Scout History",
+    "question": "What year was the Boy Scouts of America founded?",
+    "answer": "1910"
+   },
+   {
+    "topic": "Oath Under Pressure",
+    "question": "Recite the Scout Oath perfectly while doing jumping jacks!",
+    "answer": ""
+   },
+   {
+    "topic": "Leadership & Fun",
+    "question": "Who in the troop told the best joke at today’s meeting?",
+    "answer": "Encourages fun and observation!"
+   },
+   {
+    "topic": "Scout Slogan",
+    "question": "What is the Scout slogan?",
+    "answer": "Do a good turn daily!"
+   },
+   {
+    "topic": "Scout Motto",
+    "question": "What is the Scout motto?",
+    "answer": "Be prepared!"
+   },
+   {
+    "topic": "Uniform Check",
+    "question": "What side of the uniform does the Scout rank badge go on?",
+    "answer": "Left side, over the heart."
+   },
+   {
+    "topic": "Merit Badge Match",
+    "question": "Name three merit badges that focus on outdoor survival skills.",
+    "answer": "Camping, Wilderness Survival, First Aid, etc."
+   },
+   {
+    "topic": "Scout Law Action",
+    "question": "Give an example of a time you showed one point of the Scout Law today.",
+    "answer": "Personal reflection!"
+   },
+   {
+    "topic": "BSA Rank Order",
+    "question": "Name the seven BSA Scout ranks in order.",
+    "answer": "Scout, Tenderfoot, Second Class, First Class, Star, Life, Eagle."
+   }
+  ],
+  "Outdoor Skills & Camping": [
+   {
+    "topic": "Knot Knowledge",
+    "question": "What knot is best for tying two ropes together?",
+    "answer": "Sheet Bend."
+   },
+   {
+    "topic": "Tent Time Challenge",
+    "question": "Fold a tent or sleeping bag correctly in under 30 seconds!",
+    "answer": ""
+   },
+   {
+    "topic": "Campfire Cooking",
+    "question": "What’s the \"golden rule\" of using a Dutch oven while camping?",
+    "answer": "Never use soap to clean it!"
+   },
+   {
+    "topic": "Bear Bag Basics",
+    "question": "How high should a bear bag be hung from the ground?",
+    "answer": "At least 10-12 feet."
+   },
+   {
+    "topic": "Knife Safety",
+    "question": "What’s the correct way to pass a knife to someone?",
+    "answer": "Close it or pass handle first."
+   },
+   {
+    "topic": "Tarp Trickery",
+    "question": "Name two knots you could use to tie up a tarp for shelter.",
+    "answer": "Taut-line hitch, bowline."
+   },
+   {
+    "topic": "Cooking Fire Types",
+    "question": "What’s the best type of campfire for cooking?",
+    "answer": "A keyhole fire or a bed of coals."
+   },
+   {
+    "topic": "Hiking Help",
+    "question": "What should you do if you get a blister while hiking?",
+    "answer": "Cover it, avoid popping, use moleskin."
+   },
+   {
+    "topic": "Trail Signs",
+    "question": "What does three rocks stacked on a trail usually mean?",
+    "answer": "A trail marker or warning."
+   },
+   {
+    "topic": "Water Boil Challenge",
+    "question": "How long should you boil water to make it safe to drink?",
+    "answer": "At least one minute, or three at higher elevations."
+   }
+  ],
+  "Fun & Trivia Challenges": [
+   {
+    "topic": "Morse Code Mayhem",
+    "question": "Decode this: \"... --- ...\"",
+    "answer": "It’s SOS!"
+   },
+   {
+    "topic": "Scout Song Shoutout",
+    "question": "Sing or recite a line from a Scout campfire song!",
+    "answer": ""
+   },
+   {
+    "topic": "Memory Game",
+    "question": "Name three things the Scout before you had in their backpack today.",
+    "answer": "Observation challenge!"
+   },
+   {
+    "topic": "Scouting Around the World",
+    "question": "Name one country other than the U.S. where Scouting exists.",
+    "answer": "UK, Canada, Switzerland, etc."
+   },
+   {
+    "topic": "Riddle Me This",
+    "question": "What has to be broken before you can use it?",
+    "answer": "An egg!"
+   },
+   {
+    "topic": "Patrol Power",
+    "question": "Name every member of your patrol.",
+    "answer": "Encourages team bonding!"
+   },
+   {
+    "topic": "Camping Horror Stories",
+    "question": "Share the funniest or most unexpected thing that happened on a camping trip!",
+    "answer": ""
+   },
+   {
+    "topic": "Troop Trivia",
+    "question": "What was the last campout location the troop visited?",
+    "answer": "Tests attention and memory!"
+   },
+   {
+    "topic": "Scoutmasters Say",
+    "question": "Repeat this tongue-twister five times: \"Six slippery Scouts slid south swiftly.\"",
+    "answer": ""
+   },
+   {
+    "topic": "Physical Challenge",
+    "question": "Do 10 push-ups while naming as many knots as you can!",
+    "answer": ""
+   }
+  ]
+ },
+ "event_cards_general": [
+  {
+   "event": "Lost! You’ve wandered off the trail and can’t find your way back. The sun is setting, and you have no idea where you are.",
+   "solution": "Carry a map and compass at all times, and know how to use them. If you get lost, stop, stay calm, and use the \"STOP\" method: Sit, Think, Observe, and Plan. Always tell someone your route and expected return time."
+  },
+  {
+   "event": "Sprained Ankle! You’ve twisted your ankle on a rough trail and it’s swelling up fast. Walking is painful, and the campsite is still miles away.",
+   "solution": "Carry an elastic bandage to wrap the ankle and provide support. Rest, apply ice if available, compress with a bandage, and elevate the ankle. Walk slowly with the aid of a sturdy stick or trekking pole."
+  },
+  {
+   "event": "Severe Dehydration! You’ve run out of water and are feeling dizzy, weak, and disoriented. There’s no clear water source nearby.",
+   "solution": "Always bring more water than you think you’ll need. Carry a portable water filter or purification tablets to treat natural water sources. Know the signs of dehydration and hydrate regularly."
+  },
+  {
+   "event": "Bear Encounter! A bear has wandered into your campsite, sniffing around for food. You’re unsure how to safely get away without provoking it.",
+   "solution": "Keep food stored in bear-proof containers and hang them away from your sleeping area. If you encounter a bear, back away slowly, avoid eye contact, and make yourself appear larger. Use bear spray if necessary. Event Card: Torn Tent! Your tent has ripped during a windstorm, and rain is expected overnight. You’re worried about staying dry. Solution Card: Carry a tent repair kit with patches and strong adhesive tape. Apply the patch to the torn area, covering it securely. Always check your tent before trips and reinforce weak spots."
+  },
+  {
+   "event": "Firewood Shortage! You’ve arrived at your campsite, but there’s no dry wood in the area, and the temperature is dropping quickly.",
+   "solution": "Always carry a small amount of emergency fire-starting materials like dry tinder or fire starters. If you can’t find wood, use a camping stove to cook and provide warmth. Practice building fires efficiently in all weather conditions."
+  },
+  {
+   "event": "Snake Bite! You’ve been bitten by a snake while hiking, and you’re not sure if it’s venomous.",
+   "solution": "Stay calm, keep the bite area below your heart, and move slowly to prevent venom spread. Do not attempt to suck out the venom or use a tourniquet. Seek medical help immediately. Carry a snake bite kit if in areas known for venomous snakes."
+  },
+  {
+   "event": "Flooded Campsite! Heavy rains have flooded your campsite, and your gear is getting soaked. The weather shows no sign of improving.",
+   "solution": "Set up camp on higher ground to avoid flooding. Always carry a waterproof tarp to cover your gear and make sure your tent has a rainfly. Keep extra dry clothes in waterproof bags or containers. Event Card: Sunburn! You’ve spent the day hiking under intense sun without proper protection, and now you’re suffering from a severe sunburn. Solution Card: Wear sunscreen with SPF 30 or higher and reapply regularly, especially if sweating or swimming. Wear a wide-brimmed hat and light, long-sleeved clothing to protect your skin. Keep aloe vera gel handy to soothe burns."
+  },
+  {
+   "event": "Insect Infestation! You’re being swarmed by mosquitoes, and your insect repellent isn’t working. The bites are getting unbearable.",
+   "solution": "Use a repellent with DEET or Picaridin for stronger protection. Set up camp away from standing water, where mosquitoes breed. Wear long sleeves and pants. If possible, carry a mosquito net for sleeping areas."
+  },
+  {
+   "event": "Food Spoilage! Your food has gone bad due to hot temperatures, and now you have nothing to eat for the rest of the trip.",
+   "solution": "Always carry non-perishable foods like dried fruits, nuts, and energy bars. Use a bear canister or cooler for perishables, and make sure it's sealed properly. Plan meals wisely and eat perishable items first."
+  },
+  {
+   "event": "Hypothermia! The temperature has dropped drastically, and you’re shivering uncontrollably, unable to stay warm.",
+   "solution": "Dress in layers and avoid cotton clothing. Carry a space blanket or emergency bivy sack to retain body heat. Eat high-calorie snacks for energy, and keep moving to generate warmth. Know the signs of hypothermia and act quickly."
+  },
+  {
+   "event": "Poison Ivy! You’ve accidentally walked through poison ivy, and now your skin is itching and inflamed.",
+   "solution": "Learn to recognize poison ivy, oak, and sumac before your trip. Carry a poison ivy treatment or hydrocortisone cream. If exposed, wash the affected area with soap and water as soon as possible."
+  },
+  {
+   "event": "Campsite Invaders! Raccoons or other animals have raided your campsite and eaten your food. Now you’re left without snacks and meals.",
+   "solution": "Always store food in airtight containers or hang it from a tree to prevent animals from getting to it. Clean up all food scraps and trash to avoid attracting wildlife."
+  },
+  {
+   "event": "Broken Backpack Strap! One of the straps on your backpack has torn, making it difficult to carry your gear.",
+   "solution": "Carry a small sewing kit with strong thread and safety pins for temporary fixes. Duct tape or zip ties can be used in emergencies to hold straps together until you can repair them properly."
+  },
+  {
+   "event": "No Fire! The wood is wet, and you can’t get a fire started, leaving you without warmth or a way to cook food.",
+   "solution": "Always carry waterproof matches, a lighter, or a fire steel along with dry tinder in a waterproof container. Learn how to build a fire using the lean-to or log cabin method, which can help start a fire with damp wood."
+  },
+  {
+   "event": "Wild Animal Attack! You’ve encountered a wild animal, such as a mountain lion or wolf, and it’s acting aggressively.",
+   "solution": "Stand tall, make yourself look larger, and slowly back away without turning your back on the animal. Make noise to scare it off. If attacked, fight back and aim for the animal’s eyes and nose."
+  },
+  {
+   "event": "Injury While Alone! You’ve slipped and cut yourself while out hiking solo, and you’re not sure if the cut will need stitches.",
+   "solution": "Carry a basic first aid kit, including sterile gauze and bandages. Clean the wound with disinfectant and cover it securely. Always hike with a buddy or, if alone, notify someone of your route and expected return."
+  },
+  {
+   "event": "Heat Exhaustion! You’ve been hiking under the sun all day and are feeling lightheaded and weak. You’re starting to feel nauseous.",
+   "solution": "Drink water regularly and rest in the shade if possible. Use electrolyte tablets or drinks to replace lost minerals. Wear light, breathable clothing, and plan hikes during cooler parts of the day. Event Card: River Crossing Mishap! While crossing a river, you slipped and fell in. Your clothes and gear are soaked, and you’re freezing. Solution Card: Cross rivers carefully, using trekking poles for stability. If you get wet, change into dry clothes immediately and wring out wet gear. Always carry a dry bag to protect valuables and essentials like matches and food."
+  },
+  {
+   "event": "Lightning Storm! You’re caught in an open area during a thunderstorm, and lightning is striking nearby.",
+   "solution": "Stay away from tall trees and metal objects. Find lower ground or take shelter in a cave or small depression. Crouch down on the balls of your feet to minimize contact with the ground and reduce risk."
+  },
+  {
+   "event": "Severe Allergy Attack! You’ve been stung by a bee or come into contact with an allergen and are experiencing difficulty breathing.",
+   "solution": "If you have severe allergies, always carry an epinephrine auto-injector (EpiPen) and know how to use it. Avoid known allergens and wear long sleeves and pants in areas with stinging insects."
+  },
+  {
+   "event": "Broken Trekking Pole! Your trekking pole has snapped on a rough trail, and you’re finding it hard to balance without it.",
+   "solution": "Carry duct tape to temporarily fix broken gear. If a pole breaks, find a sturdy stick as a replacement. Learn to hike with proper posture and balance, even without trekking poles."
+  },
+  {
+   "event": "Bad Water Source! You’ve come across a water source that looks dirty or contaminated, but you’re running out of water and need to hydrate.",
+   "solution": "Always carry a portable water filter or purification tablets to make water safe to drink. If the water is especially dirty, strain it through a bandana or cloth before purifying."
+  },
+  {
+   "event": "Blown Away Tent! High winds have blown your tent over, and it’s getting late. You need to set it up again quickly before dark.",
+   "solution": "Always stake your tent securely and reinforce it with extra guy lines in windy conditions. Use rocks or logs to weigh down the corners if needed. Practice setting up your tent quickly before trips."
+  },
+  {
+   "event": "Altitude Sickness! You’re hiking at a high elevation and feeling dizzy, short of breath, and nauseous. You’re struggling to keep going.",
+   "solution": "Take breaks and ascend slowly to allow your body to adjust to the altitude. Stay hydrated and eat light, nutritious snacks. If symptoms worsen, descend to a lower elevation immediately."
+  },
+  {
+   "event": "Burned While Cooking! You’ve accidentally touched a hot stove or campfire and burned your hand while preparing food.",
+   "solution": "Carry burn ointment or aloe gel in your first aid kit. Cool the burn with cold water for several minutes, then apply ointment and cover it with a sterile bandage. Avoid touching hot surfaces and always use utensils. Event Card: No Cell Signal! You’re trying to check your GPS or call for help, but you have no cell phone signal in the remote area you’re hiking. Solution Card: Bring a paper map and compass as a backup to technology. Learn how to navigate without GPS. Consider carrying a satellite communication device or personal locator beacon in areas with no cell service."
+  },
+  {
+   "event": "Runaway Canoe! While setting up camp near a river, your canoe gets swept away by a strong current, and you’re stranded.",
+   "solution": "Always tie up your canoe securely, even in calm waters. Carry an emergency whistle and flares to signal for help if stranded. Practice paddling in different water conditions to avoid getting caught in currents."
+  },
+  {
+   "event": "Falling Rocks! While hiking in a canyon, you hear rocks falling from above. You look up and see more rocks coming down the slope.",
+   "solution": "Move quickly but cautiously out of the rockfall zone. Avoid hiking under steep cliffs or slopes prone to falling rocks. Wear a helmet in areas with high risk of rockfall, and always be aware of your surroundings."
+  }
+ ],
+ "event_cards_hiking": [
+  {
+   "event": "Overgrown Trail! You’ve encountered an overgrown trail, and it’s hard to tell where the path continues.",
+   "solution": "Always carry a map and compass or GPS to navigate when trails are unclear. Wear long pants and sturdy boots to protect yourself from thorns or brush. Mark your path with small, natural markers like rocks if necessary."
+  },
+  {
+   "event": "Steep Climb! You’ve reached a steep incline, and your legs are exhausted. You’re not sure if you can continue.",
+   "solution": "Take frequent breaks and pace yourself on inclines. Use trekking poles to distribute your weight and take the strain off your legs. Stay hydrated and eat energy-rich snacks for a boost."
+  },
+  {
+   "event": "Foggy Conditions! Fog has rolled in, reducing visibility on the trail. You’re finding it hard to navigate.",
+   "solution": "Stay on the marked trail and use a compass or GPS for guidance. If the fog is thick, wait for it to lift in a safe area. Wear reflective or bright clothing to make yourself more visible to others."
+  },
+  {
+   "event": "Wildlife Encounter! You’ve encountered a large animal, such as a moose or bison, on the trail, blocking your way.",
+   "solution": "Give wildlife plenty of space, and do not approach or try to scare them off. Back away slowly and take a wide detour if possible. Make noise to alert the animal to your presence without startling it."
+  },
+  {
+   "event": "Lost Hiking Group! You’ve become separated from your hiking group and are unsure of where they went.",
+   "solution": "Stay where you are and use a whistle or shout loudly to signal your location. If possible, retrace your steps slowly and leave markers like stacked rocks to help guide you back. Always agree on a meeting point with your group before starting a hike."
+  },
+  {
+   "event": "Torn Hiking Boots! Your hiking boots have torn, and now your feet are exposed to rough terrain.",
+   "solution": "Carry duct tape or strong adhesive to temporarily patch your boots. Consider bringing an extra pair of lightweight shoes or sandals in case of emergency. Make sure to break in new boots before hiking."
+  },
+  {
+   "event": "Rocky Terrain! You’ve reached a section of the trail with loose rocks, making it difficult to keep your balance.",
+   "solution": "Move slowly and use trekking poles for stability. Test rocks with your foot before putting your full weight on them. Wear shoes with strong ankle support to prevent rolling or twisting."
+  },
+  {
+   "event": "Running Out of Daylight! You miscalculated the time and are still far from your campsite or destination as the sun begins to set.",
+   "solution": "Always bring a headlamp or flashlight with extra batteries. Hike at a steady pace and avoid rushing in the dark. Stay calm and look for safe places to camp if necessary, away from cliffs or hazards."
+  },
+  {
+   "event": "River Crossing! You’ve come across a fast-moving river that blocks your path, and you need to cross it safely.",
+   "solution": "Scout the river for the shallowest, calmest point. Use trekking poles or a sturdy stick for balance. Cross facing upstream and take small, deliberate steps, making sure each foot is stable before moving forward."
+  },
+  {
+   "event": "Dehydration! You’re running low on water and feel dizzy and lightheaded during a long hike in the sun.",
+   "solution": "Always carry more water than you think you’ll need, and plan for rest stops in shaded areas. Use a water filter or purification tablets to treat water from streams or rivers. Hydrate regularly and take electrolyte supplements if necessary."
+  },
+  {
+   "event": "Tick Infestation! You’ve hiked through tall grass, and now you notice ticks on your clothing and skin.",
+   "solution": "Wear long sleeves, pants, and insect repellent in tick-prone areas. Check yourself and others frequently for ticks and remove them carefully using tweezers. Carry a small first aid kit with tick removal tools."
+  },
+  {
+   "event": "Low Energy! You’ve run out of snacks, and now you’re feeling low on energy and sluggish.",
+   "solution": "Always pack high-energy snacks like trail mix, protein bars, or jerky. Take short breaks to eat and hydrate during the hike. Bring extra food for emergencies and eat small portions regularly to maintain energy."
+  },
+  {
+   "event": "Raining! A sudden rainstorm hits while you’re hiking, and you don’t have rain gear.",
+   "solution": "Always carry a lightweight, waterproof jacket or poncho in your backpack. Find shelter under trees or rocks until the rain passes. Keep moving to stay warm and dry off quickly afterward. Pack extra dry socks in case your feet get wet."
+  },
+  {
+   "event": "Mountain Sickness! You’ve reached high altitude, and now you’re feeling dizzy, short of breath, and fatigued.",
+   "solution": "Ascend slowly to allow your body to adjust to the altitude. Drink plenty of water and avoid strenuous activity. If symptoms worsen, descend to a lower altitude immediately. Always carry oxygen or altitude sickness medication if necessary."
+  },
+  {
+   "event": "Blisters on Feet! You’ve developed painful blisters on your feet, making it difficult to keep walking.",
+   "solution": "Stop and apply moleskin or blister pads to protect the affected area. Wear moisture-wicking socks and make sure your boots fit properly to prevent future blisters. Take breaks and air out your feet regularly during the hike."
+  },
+  {
+   "event": "Sudden Cold Snap! The temperature has dropped unexpectedly, and you didn’t bring enough warm clothing.",
+   "solution": "Always pack extra layers, including a thermal base layer, hat, and gloves, even in warm weather. Move to keep your body warm and find shelter from the wind. Use an emergency blanket to trap body heat if needed."
+  },
+  {
+   "event": "Cramped Campsite! You’ve arrived at the campsite late, and all the flat ground is already taken. You’ll have to set up on uneven terrain.",
+   "solution": "Look for the flattest possible area and clear it of debris. Use extra padding under your sleeping bag to level the surface. Practice setting up camp quickly in case of these types of situations. Scout ahead for campsites if possible."
+  },
+  {
+   "event": "Trail Blocked! A large fallen tree is blocking the trail, and you’re not sure how to get around it.",
+   "solution": "Climb carefully over or under the tree, making sure the area is stable before proceeding. If it’s unsafe, look for a detour or alternative route. Carry a small saw if allowed for trail clearing on group hikes."
+  },
+  {
+   "event": "Torn Map! Your map got wet and torn, and now you can’t read the important sections to find your way.",
+   "solution": "Carry a waterproof map case or store your map in a plastic bag. Memorize key landmarks and routes before setting out. Always bring a backup compass or GPS in case your map is damaged."
+  },
+  {
+   "event": "Insect Swarm! You’ve encountered a swarm of mosquitoes or flies on the trail, and they’re biting you relentlessly.",
+   "solution": "Apply insect repellent with DEET or Picaridin to exposed skin. Wear long sleeves and pants to protect against bites. Move quickly through areas with standing water to avoid attracting swarms."
+  }
+ ],
+ "campsite_wrong": [
+  {
+   "title": "Tent on a Slope",
+   "desc": "The tent is pitched on a slanted area, causing discomfort while sleeping and potential sliding."
+  },
+  {
+   "title": "Tent Pegs Not Properly Secured",
+   "desc": "Tent stakes are not fully driven into the ground, making the tent unstable and prone to collapsing in wind."
+  },
+  {
+   "title": "Guy Lines Loose or Missing",
+   "desc": "Guy lines are either loose or not staked, leaving the tent vulnerable to wind and less secure."
+  },
+  {
+   "title": "Improper Fire Pit Location",
+   "desc": "The fire pit is too close to the tent or other flammable objects, increasing the risk of fire hazards."
+  },
+  {
+   "title": "Unattended Fire",
+   "desc": "There’s an active campfire without anyone watching over it. No water bucket or shovel nearby for emergencies."
+  },
+  {
+   "title": "Food Left Out on the Table",
+   "desc": "Food is left out in the open, attracting wildlife and insects, instead of being properly stored in bearproof containers or hung in a tree."
+  },
+  {
+   "title": "Trash Scattered Around",
+   "desc": "There’s litter and garbage left around the campsite, which can attract animals and is unsightly."
+  },
+  {
+   "title": "Clothesline Hung at Neck Level",
+   "desc": "A clothesline is stretched across the campsite at a height that could trip or injure someone walking by."
+  },
+  {
+   "title": "Cooking Area Too Close to Tent",
+   "desc": "The stove and cooking area are set up too close to the sleeping area, posing a safety and hygiene hazard."
+  },
+  {
+   "title": "Tent Door Facing Into the Wind",
+   "desc": "The tent door is pitched into the wind, making it uncomfortable and difficult to manage when entering or exiting."
+  },
+  {
+   "title": "Cooler Left Open",
+   "desc": "The cooler is left open, allowing perishables to spoil and providing easy access for animals."
+  },
+  {
+   "title": "Sleeping Bag on Damp Ground",
+   "desc": "A sleeping bag or mat is left on the ground without a tarp or groundsheet underneath, risking water seepage and discomfort."
+  },
+  {
+   "title": "Improper Human Waste Disposal",
+   "desc": "There’s no designated bathroom area, and waste disposal practices are not being followed, leading to potential contamination."
+  },
+  {
+   "title": "Messy Camp Kitchen",
+   "desc": "Dirty dishes and utensils are left lying around, attracting pests and creating unsanitary conditions."
+  },
+  {
+   "title": "Improperly Hung Food Bags",
+   "desc": "Food bags are hung too low from a tree, making them accessible to animals, or they’re hung too close to the trunk where animals can climb."
+  },
+  {
+   "title": "Loose and Unsecured Gear",
+   "desc": "Personal gear like backpacks, sleeping pads, and shoes are scattered around the campsite instead of stored neatly."
+  },
+  {
+   "title": "Unprotected Water Source",
+   "desc": "A water source is being used near the campsite without proper precautions, like treating or filtering the water, or washing too close to it."
+  },
+  {
+   "title": "Cluttered and Hazardous Pathways",
+   "desc": "Gear, ropes, and items are strewn across walking paths, creating tripping hazards."
+  },
+  {
+   "title": "Overpacked Fire Pit",
+   "desc": "The fire pit is overloaded with too much wood or debris, making it difficult to manage and increasing the risk of an out of control fire."
+  },
+  {
+   "title": "Unattended Axe or Sharp Tools",
+   "desc": "An axe or other sharp tool is left lying out in the open without proper storage, creating a serious injury risk. Each of these mistakes can help teach important lessons about campsite safety, hygiene, and Leave No Trace principles. After showing your students this demonstration, you can discuss why each item is a mistake and how to properly set up a safe, efficient campsite."
+  }
+ ],
+ "scout_skill_classes": [
+  {
+   "name": "Fire Building and Safety",
+   "objective": "Learn how to build a fire safely using different methods.",
+   "agenda": [
+    "Fire safety rules and precautions (10 min)",
+    "Types of fires (teepee, log cabin, pyramid) (10 min)",
+    "Fire-starting methods (matches, flint and steel, fire starters) (10 min)",
+    "Hands-on practice: building and lighting a fire (20 min)",
+    "Fire extinguishing and cleanup (10 min)"
+   ]
+  },
+  {
+   "name": "Knots and Lashings",
+   "objective": "Learn essential knots and their uses.",
+   "agenda": [
+    "Introduction to knot types (5 min)",
+    "Learn and practice: square knot, bowline, clove hitch, taut-line hitch (20 min)",
+    "Lashings: square lashing and diagonal lashing (15 min)",
+    "Practical application (building a tripod or simple structure) (15 min)",
+    "Review and quiz (5 min)"
+   ]
+  },
+  {
+   "name": "First Aid Basics",
+   "objective": "Understand first aid essentials and apply basic treatment.",
+   "agenda": [
+    "Understanding emergency situations (5 min)",
+    "Demonstrate and practice treating cuts, burns, sprains, and bites (30 min)",
+    "Hands-on practice: bandaging and splints (15 min)",
+    "Review and scenario-based practice (10 min)"
+   ]
+  },
+  {
+   "name": "Compass and Orienteering",
+   "objective": "Learn to use a compass for navigation.",
+   "agenda": [
+    "Parts of a compass and how to read it (10 min)",
+    "Finding bearings and orienting a map (15 min)",
+    "Practice: using a compass to find landmarks (20 min)",
+    "Orienteering challenge (15 min)"
+   ]
+  },
+  {
+   "name": "Map Reading",
+   "objective": "Understand topographic maps and navigation.",
+   "agenda": [
+    "Symbols, scales, and contour lines (15 min)",
+    "Measuring distance and determining elevation (15 min)",
+    "Orienting a map to real-world terrain (15 min)",
+    "Map-reading exercise (15 min)"
+   ]
+  },
+  {
+   "name": "Leave No Trace Principles",
+   "objective": "Learn outdoor ethics and conservation.",
+   "agenda": [
+    "Explanation of the 7 Leave No Trace principles (15 min)",
+    "Group discussion: real-world scenarios (10 min)",
+    "Hands-on: setting up a low-impact campsite (20 min)",
+    "Cleanup and reflection (15 min)"
+   ]
+  },
+  {
+   "name": "Shelter Building",
+   "objective": "Construct emergency shelters using natural materials.",
+   "agenda": [
+    "Shelter principles and site selection (10 min)",
+    "Demonstration of different types (lean-to, debris hut, tarp shelter) (15 min)",
+    "Hands-on building of a shelter (25 min)",
+    "Debrief and discussion (10 min)"
+   ]
+  },
+  {
+   "name": "Knife and Axe Safety",
+   "objective": "Learn how to safely use and maintain cutting tools.",
+   "agenda": [
+    "Knife safety rules and handling (10 min)",
+    "Sharpening and maintenance (10 min)",
+    "Proper axe use and wood splitting (15 min)",
+    "Hands-on practice (20 min)",
+    "Safety review and Q&A (5 min)"
+   ]
+  },
+  {
+   "name": "Cooking and Campfire Cooking",
+   "objective": "Learn outdoor cooking techniques.",
+   "agenda": [
+    "Safe food handling and sanitation (10 min)",
+    "Demonstration of cooking methods (foil packs, Dutch oven, skillet) (15 min)",
+    "Hands-on cooking (25 min)",
+    "Cleanup and discussion (10 min)"
+   ]
+  },
+  {
+   "name": "Water Purification",
+   "objective": "Understand different water purification methods.",
+   "agenda": [
+    "Why purifying water is important (10 min)",
+    "Different methods (boiling, filtration, chemical treatment) (20 min)",
+    "Hands-on: filtering water with a makeshift filter (20 min)",
+    "Safety review and taste test (10 min)"
+   ]
+  },
+  {
+   "name": "Tracking and Animal Signs",
+   "objective": "Identify animal tracks and signs in nature.",
+   "agenda": [
+    "Basic tracking skills and common animal tracks (15 min)",
+    "Identifying scat, scratches, and trails (15 min)",
+    "Hands-on practice: making track molds (15 min)",
+    "Field observation walk (15 min)"
+   ]
+  },
+  {
+   "name": "Signaling for Rescue",
+   "objective": "Learn ways to signal for help in emergencies.",
+   "agenda": [
+    "Review of emergency signals (smoke, mirrors, whistle, flags) (15 min)",
+    "How to use a signal mirror effectively (15 min)",
+    "Hands-on practice: creating ground signals (15 min)",
+    "Role-play: signaling in different scenarios (15 min)"
+   ]
+  },
+  {
+   "name": "Basic Survival Skills",
+   "objective": "Learn how to survive in the wilderness with limited resources.",
+   "agenda": [
+    "The survival rule of threes (10 min)",
+    "Basics of finding food and water (15 min)",
+    "Making a survival kit (15 min)",
+    "Hands-on: building a basic survival shelter (20 min)"
+   ]
+  },
+  {
+   "name": "Weather Prediction",
+   "objective": "Recognize natural weather patterns.",
+   "agenda": [
+    "Clouds and what they tell us (15 min)",
+    "Wind and pressure changes (10 min)",
+    "Reading a weather map (15 min)",
+    "Hands-on: making a simple barometer (20 min)"
+   ]
+  },
+  {
+   "name": "Backpacking Essentials",
+   "objective": "Learn how to pack and carry a backpack properly.",
+   "agenda": [
+    "Choosing the right backpack and fitting it (10 min)",
+    "Packing efficiently and weight distribution (15 min)",
+    "Essential gear checklist (15 min)",
+    "Hands-on: packing a backpack properly (20 min)"
+   ]
+  },
+  {
+   "name": "Emergency Preparedness",
+   "objective": "Understand how to respond to various emergencies.",
+   "agenda": [
+    "Creating an emergency plan (10 min)",
+    "Basic response to natural disasters (15 min)",
+    "Hands-on: assembling a 72-hour emergency kit (20 min)",
+    "Emergency role-play scenarios (15 min)"
+   ]
+  },
+  {
+   "name": "Pioneering Projects",
+   "objective": "Learn how to construct simple camp gadgets.",
+   "agenda": [
+    "Introduction to pioneering and its uses (10 min)",
+    "Basic lashings and their applications (15 min)",
+    "Hands-on: building a flagpole or camp chair (30 min)"
+   ]
+  },
+  {
+   "name": "Star Navigation",
+   "objective": "Navigate using the night sky.",
+   "agenda": [
+    "Identifying major constellations (10 min)",
+    "Using the North Star for direction (10 min)",
+    "Hands-on: making a simple star chart (20 min)",
+    "Night observation exercise (20 min)"
+   ]
+  },
+  {
+   "name": "Wilderness First Aid",
+   "objective": "Learn first aid techniques for remote areas.",
+   "agenda": [
+    "Common backcountry injuries (15 min)",
+    "Improvised splints and bandages (15 min)",
+    "Hands-on: practicing wilderness first aid (20 min)",
+    "Group scenario practice (10 min)"
+   ]
+  },
+  {
+   "name": "Tracking Time Without a Watch",
+   "objective": "Use natural signs to tell time.",
+   "agenda": [
+    "Sun’s movement and shadow sticks (15 min)",
+    "Reading nature for approximate time (15 min)",
+    "Hands-on: making a simple sundial (20 min)",
+    "Time-tracking challenge (10 min)"
+   ]
+  }
+ ],
+ "merit_badges": [
+  {
+   "name": "Fingerprinting Merit Badge",
+   "objective": "Learn fingerprinting techniques and their use in law enforcement.",
+   "agenda": [
+    "History and uses of fingerprinting (15 min)",
+    "Fingerprint patterns and classifications (15 min)",
+    "Hands-on: Taking fingerprints using ink (30 min)",
+    "Comparing and analyzing fingerprints (30 min)"
+   ]
+  },
+  {
+   "name": "First Aid Merit Badge (Intro)",
+   "objective": "Learn basic first aid skills and emergency response.",
+   "agenda": [
+    "Basics of first aid and emergency response (20 min)",
+    "Hands-on: Bandaging, CPR, and choking response (40 min)",
+    "Scenario-based practice (30 min)"
+   ]
+  },
+  {
+   "name": "Citizenship in the World (Intro)",
+   "objective": "Understand global citizenship and cultural awareness.",
+   "agenda": [
+    "What it means to be a world citizen (20 min)",
+    "International organizations and diplomacy (30 min)",
+    "Group discussion: Cultural diversity and global issues (40 min)"
+   ]
+  },
+  {
+   "name": "Public Speaking Merit Badge",
+   "objective": "Develop confidence in public speaking.",
+   "agenda": [
+    "Basics of effective speaking (20 min)",
+    "Writing and delivering a short speech (40 min)",
+    "Peer feedback and improvement (30 min)"
+   ]
+  },
+  {
+   "name": "Personal Fitness Merit Badge (Intro)",
+   "objective": "Understand the importance of physical fitness.",
+   "agenda": [
+    "Basics of physical fitness and health (20 min)",
+    "Hands-on: Fitness tests and personal goal setting (40 min)",
+    "Discussion on diet and exercise (30 min)"
+   ]
+  },
+  {
+   "name": "Art Merit Badge",
+   "objective": "Learn basic art techniques and create a piece.",
+   "agenda": [
+    "Introduction to different art forms (20 min)",
+    "Hands-on: Drawing or painting activity (40 min)",
+    "Discussion on careers in art and critique (30 min)"
+   ]
+  },
+  {
+   "name": "Chess Merit Badge",
+   "objective": "Learn chess rules and strategies.",
+   "agenda": [
+    "Basics of chess and piece movements (20 min)",
+    "Hands-on: Playing and strategy session (40 min)",
+    "Tournament or puzzle challenge (30 min)"
+   ]
+  },
+  {
+   "name": "Digital Technology Merit Badge",
+   "objective": "Understand basic digital technology concepts.",
+   "agenda": [
+    "History of digital technology (20 min)",
+    "Internet safety and cybersecurity (30 min)",
+    "Hands-on: Exploring a new app or program (40 min)"
+   ]
+  },
+  {
+   "name": "Music Merit Badge",
+   "objective": "Explore different music styles and instruments.",
+   "agenda": [
+    "Introduction to musical styles and instruments (20 min)",
+    "Hands-on: Playing a simple rhythm or melody (40 min)",
+    "Discussion on careers in music (30 min)"
+   ]
+  },
+  {
+   "name": "Model Design and Building Merit Badge",
+   "objective": "Learn the basics of model design and construction.",
+   "agenda": [
+    "Principles of model building (20 min)",
+    "Hands-on: Build a simple model (40 min)",
+    "Presentation and discussion of models (30 min)"
+   ]
+  },
+  {
+   "name": "Photography Merit Badge",
+   "objective": "Learn photography basics and composition.",
+   "agenda": [
+    "Camera functions and settings (20 min)",
+    "Hands-on: Taking pictures with different compositions (40 min)",
+    "Review and critique of photos (30 min)"
+   ]
+  },
+  {
+   "name": "Weather Merit Badge",
+   "objective": "Understand weather patterns and forecasting.",
+   "agenda": [
+    "Basics of weather science (20 min)",
+    "Hands-on: Building a simple barometer (40 min)",
+    "Discussion on climate change and careers in meteorology (30 min)"
+   ]
+  },
+  {
+   "name": "Reading Merit Badge",
+   "objective": "Develop reading skills and appreciation.",
+   "agenda": [
+    "Discussion of favorite books and genres (20 min)",
+    "Hands-on: Reading comprehension challenge (40 min)",
+    "Discussion on the importance of lifelong reading (30 min)"
+   ]
+  },
+  {
+   "name": "Home Repairs Merit Badge",
+   "objective": "Learn basic home maintenance skills.",
+   "agenda": [
+    "Overview of common household repairs (20 min)",
+    "Hands-on: Fixing a leaky faucet or patching a hole (40 min)",
+    "Safety and tool maintenance discussion (30 min)"
+   ]
+  },
+  {
+   "name": "Mammal Study Merit Badge",
+   "objective": "Learn about mammal species and conservation.",
+   "agenda": [
+    "Introduction to mammal classification (20 min)",
+    "Hands-on: Identifying local mammals (40 min)",
+    "Discussion on conservation efforts (30 min)"
+   ]
+  },
+  {
+   "name": "Pet Care Merit Badge",
+   "objective": "Understand the responsibilities of pet ownership.",
+   "agenda": [
+    "Discussion on different types of pets (20 min)",
+    "Hands-on: Creating a pet care plan (40 min)",
+    "Discussion on ethical pet ownership (30 min)"
+   ]
+  },
+  {
+   "name": "Space Exploration Merit Badge",
+   "objective": "Learn about space exploration and NASA missions.",
+   "agenda": [
+    "History of space exploration (20 min)",
+    "Hands-on: Building a simple rocket or rover model (40 min)",
+    "Discussion on careers in space science (30 min)"
+   ]
+  },
+  {
+   "name": "Geocaching Merit Badge",
+   "objective": "Learn GPS navigation and modern treasure hunting.",
+   "agenda": [
+    "Basics of geocaching and GPS use (20 min)",
+    "Hands-on: Finding and hiding geocaches (40 min)",
+    "Discussion on map reading and navigation skills (30 min)"
+   ]
+  },
+  {
+   "name": "Coin Collecting Merit Badge",
+   "objective": "Learn the history and value of coins.",
+   "agenda": [
+    "Basics of coin collecting (20 min)",
+    "Hands-on: Identifying and evaluating coins (40 min)",
+    "Discussion on rare and valuable coins (30 min)"
+   ]
+  },
+  {
+   "name": "Game Design Merit Badge",
+   "objective": "Learn how to design and test a game.",
+   "agenda": [
+    "Principles of game design (20 min)",
+    "Hands-on: Creating a simple board or card game (40 min)",
+    "Playtesting and feedback session (30 min)"
+   ]
+  }
+ ],
+ "gear": [
+  {
+   "n": 1,
+   "name": "Multi-Tool",
+   "desc": "Versatile and compact, featuring pliers, blades, screwdrivers, and more. Essential for quick fixes and various tasks in the field.",
+   "why": "It’s lightweight, reliable, and offers multiple tools in one compact design, making it a staple for Scouts and leaders alike."
+  },
+  {
+   "n": 2,
+   "name": "Water Filter or Purifier",
+   "desc": "A portable water filtration system that ensures safe drinking water from natural sources.",
+   "why": "It’s crucial for longer hikes or backcountry camping, promoting safety and teaching self-reliance."
+  },
+  {
+   "n": 3,
+   "name": "Ultralight Backpacking Stove",
+   "desc": "A compact, fuel-efficient stove for boiling water or cooking meals.",
+   "why": "Great for teaching lightweight packing strategies and enabling Scouts to prepare simple meals on the trail."
+  },
+  {
+   "n": 4,
+   "name": "LED Headlamp",
+   "desc": "Hands-free lighting that’s perfect for nighttime activities, cooking, and hiking.",
+   "why": "Its lightweight design and long-lasting battery life make it ideal for nighttime camping activities, emergencies, and more."
+  },
+  {
+   "n": 5,
+   "name": "Paracord",
+   "desc": "Strong, versatile cordage that can be used for shelter-building, gear repair, and emergency situations.",
+   "why": "It’s a simple, inexpensive piece of gear that offers endless learning opportunities for Scouts, from knot-tying to creative problem-solving."
+  },
+  {
+   "n": 6,
+   "name": "Compass with Mirror",
+   "desc": "A compass with a built-in mirror for signaling and precise navigation.",
+   "why": "It reinforces basic navigation skills, a vital part of Scouting’s outdoor training, and promotes safety during hikes and orienteering."
+  },
+  {
+   "n": 7,
+   "name": "First Aid Kit",
+   "desc": "A small, organized kit with essential supplies like bandages, antiseptic wipes, and gauze.",
+   "why": "Highlights the importance of preparedness and personal responsibility for safety on any outing."
+  },
+  {
+   "n": 8,
+   "name": "Dry Bag",
+   "desc": "A waterproof bag that keeps clothing and gear dry during rain or water activities.",
+   "why": "It’s lightweight, simple to use, and can make the difference between a wet, miserable trip and a comfortable one."
+  },
+  {
+   "n": 9,
+   "name": "Emergency Blanket",
+   "desc": "A compact, lightweight blanket made of reflective material, designed to retain body heat.",
+   "why": "It’s an essential survival tool that’s easy to pack and can be used in a variety of situations, from unexpected weather to signaling for help."
+  },
+  {
+   "n": 10,
+   "name": "Pocket Field Guide",
+   "desc": "A small guidebook covering local plants, animals, or survival skills.",
+   "why": "Encourages Scouts to engage with their environment, learn about nature, and develop wilderness skills."
+  },
+  {
+   "n": 11,
+   "name": "Hiking Gaiters",
+   "desc": "Protective covers that shield ankles and lower legs from dirt, debris, water, and insects while hiking.",
+   "why": "They’re essential for keeping feet dry and comfortable on muddy trails or in wet grass."
+  },
+  {
+   "n": 12,
+   "name": "Solar-Powered Charger",
+   "desc": "A compact solar panel designed to charge electronic devices, like phones or GPS units.",
+   "why": "It’s an eco-friendly solution that keeps communication devices powered in the backcountry, emphasizing sustainability."
+  },
+  {
+   "n": 13,
+   "name": "Lightweight Camping Hammock",
+   "desc": "A portable hammock made of strong, lightweight materials that packs easily into a bag.",
+   "why": "It’s perfect for relaxing at camp or even as an emergency shelter in a pinch."
+  },
+  {
+   "n": 14,
+   "name": "Bear Bag Kit or Bear Canister",
+   "desc": "Gear designed for safely storing food away from bears and other wildlife.",
+   "why": "It’s a critical part of backcountry safety, helping prevent wildlife encounters and teaching proper food storage."
+  },
+  {
+   "n": 15,
+   "name": "Folding Camp Stool",
+   "desc": "A lightweight, foldable stool that offers a comfortable seat during rest breaks.",
+   "why": "It’s practical for both Scouts and leaders, particularly during long waits or fireside chats."
+  },
+  {
+   "n": 16,
+   "name": "Silicone Collapsible Bowl",
+   "desc": "A space-saving, collapsible bowl that’s ideal for meals on the go.",
+   "why": "It’s a handy addition to any mess kit, showing Scouts how to save space while packing efficiently."
+  },
+  {
+   "n": 17,
+   "name": "Biodegradable Soap",
+   "desc": "Environmentally friendly soap for cleaning hands, dishes, and even clothing.",
+   "why": "It reinforces Leave No Trace principles and is a small yet significant step toward eco-conscious camping."
+  },
+  {
+   "n": 18,
+   "name": "Fire Starter (Ferro Rod)",
+   "desc": "A durable rod that produces sparks when struck, enabling fire starting even in wet conditions.",
+   "why": "It’s a vital survival tool that fosters fire safety and survival skills."
+  },
+  {
+   "n": 19,
+   "name": "Camp Trowel",
+   "desc": "A lightweight tool used for digging catholes for waste disposal.",
+   "why": "It emphasizes the importance of Leave No Trace and proper sanitation in the backcountry."
+  },
+  {
+   "n": 20,
+   "name": "Personal Water Bottle with Built-in Filter",
+   "desc": "A bottle that filters water as you drink, offering safe hydration from most sources.",
+   "why": "It teaches Scouts to stay hydrated safely while traveling light and staying prepared."
+  },
+  {
+   "n": 21,
+   "name": "Emergency Whistle",
+   "desc": "A small, loud whistle used to signal for help in emergency situations.",
+   "why": "It’s an essential safety tool, emphasizing the importance of being heard when needed."
+  },
+  {
+   "n": 22,
+   "name": "Neck Gaiter or Buff",
+   "desc": "A versatile cloth tube that can be worn in multiple ways (scarf, headband, mask).",
+   "why": "It’s adaptable to various conditions, from sun protection to keeping warm."
+  },
+  {
+   "n": 23,
+   "name": "Camping Lantern",
+   "desc": "A battery-powered or rechargeable lantern that illuminates the campsite at night.",
+   "why": "It provides ample light, fostering safer and more comfortable nights around camp."
+  },
+  {
+   "n": 24,
+   "name": "Titanium Spork",
+   "desc": "A lightweight utensil that serves as a spoon, fork, and sometimes a knife.",
+   "why": "It’s a durable, minimalist option that reinforces efficient packing and meal preparation."
+  },
+  {
+   "n": 25,
+   "name": "Weather Radio with Hand Crank",
+   "desc": "A radio that provides weather updates and can be charged by hand.",
+   "why": "It teaches Scouts to stay informed about changing weather conditions, adding a layer of safety to outings."
+  },
+  {
+   "n": 26,
+   "name": "Collapsible Water Container",
+   "desc": "A lightweight, collapsible water jug that can store extra water for cooking or cleaning.",
+   "why": "It teaches water management and is convenient for longer stays at base camp."
+  },
+  {
+   "n": 27,
+   "name": "Campfire Grill Grate",
+   "desc": "A portable grate that sits over a fire for cooking.",
+   "why": "It’s ideal for teaching camp cooking skills and can be used to prepare larger meals without a stove."
+  },
+  {
+   "n": 28,
+   "name": "Foam Sleeping Pad",
+   "desc": "A lightweight, rollable sleeping pad that provides insulation from the ground.",
+   "why": "It promotes better sleep and emphasizes the importance of staying warm and comfortable while camping."
+  },
+  {
+   "n": 29,
+   "name": "Camping Chair with Backpack Straps",
+   "desc": "A foldable chair that can be carried like a backpack, making it easy to transport.",
+   "why": "It’s perfect for longer hikes to scenic spots or around base camps, offering Scouts a way to rest comfortably."
+  },
+  {
+   "n": 30,
+   "name": "Trekking Poles",
+   "desc": "Adjustable hiking poles that offer stability on uneven terrain.",
+   "why": "They’re helpful for teaching efficient hiking techniques and reducing stress on knees and ankles during longer treks."
+  },
+  {
+   "n": 31,
+   "name": "Mosquito Head Net",
+   "desc": "A lightweight net that covers the head to protect from mosquitoes and other insects.",
+   "why": "It’s a simple piece of gear that ensures comfort and safety in bug-prone areas."
+  },
+  {
+   "n": 32,
+   "name": "Portable Solar Shower Bag",
+   "desc": "A solar-heated bag that provides a warm shower in the field.",
+   "why": "It’s a morale booster for longer trips and demonstrates resourcefulness in hygiene."
+  },
+  {
+   "n": 33,
+   "name": "Biodegradable Toilet Bags",
+   "desc": "Bags for waste disposal that decompose naturally.",
+   "why": "It’s essential for backcountry hygiene and reinforces Leave No Trace principles."
+  },
+  {
+   "n": 34,
+   "name": "Compact First Aid Guidebook",
+   "desc": "A small, waterproof booklet that offers step-by-step first aid instructions.",
+   "why": "It provides crucial information in emergencies, promoting safety and preparedness."
+  },
+  {
+   "n": 35,
+   "name": "Hand Warmer Packs",
+   "desc": "Small packs that generate heat for several hours once activated.",
+   "why": "It’s useful for teaching cold-weather survival skills and keeps Scouts comfortable in chilly conditions."
+  },
+  {
+   "n": 36,
+   "name": "Camping Pillow",
+   "desc": "An inflatable or compressible pillow for more comfortable sleeping.",
+   "why": "It adds a level of comfort to sleeping arrangements and helps Scouts learn the importance of rest."
+  },
+  {
+   "n": 37,
+   "name": "Insulated Mug",
+   "desc": "A lightweight, insulated mug for hot drinks.",
+   "why": "It’s useful for keeping drinks warm during cold mornings, demonstrating practical camping gear essentials."
+  },
+  {
+   "n": 38,
+   "name": "Folding Saw",
+   "desc": "A compact saw designed for cutting wood for fires or shelter-building.",
+   "why": "It teaches tool safety and efficiency, useful for cutting kindling or preparing logs."
+  },
+  {
+   "n": 39,
+   "name": "Trail Snacks (Energy Bars, Jerky, etc.)",
+   "desc": "High-energy snacks that provide quick fuel for hiking.",
+   "why": "It highlights the importance of maintaining energy levels and teaches Scouts about choosing nutrient-rich foods."
+  },
+  {
+   "n": 40,
+   "name": "Thermal Blanket Poncho",
+   "desc": "An emergency poncho that doubles as a thermal blanket.",
+   "why": "It’s a versatile survival item that offers warmth, shelter, and protection from rain in emergencies."
+  },
+  {
+   "n": 41,
+   "name": "Weather-Resistant Field Notebook",
+   "desc": "A small notebook with water-resistant pages for jotting down notes or making observations.",
+   "why": "It encourages journaling, nature observations, and note-taking, regardless of weather conditions."
+  },
+  {
+   "n": 42,
+   "name": "Portable Camp Sink",
+   "desc": "A foldable basin that can be used for washing dishes, clothes, or even as a foot bath.",
+   "why": "It promotes hygiene and teaches proper camp cleanliness."
+  },
+  {
+   "n": 43,
+   "name": "Heat-Reflective Tarp",
+   "desc": "A tarp with one side coated to reflect heat, providing warmth or shade.",
+   "why": "It’s useful for building shelters, signaling, or staying warm, teaching multipurpose use in camping gear."
+  },
+  {
+   "n": 44,
+   "name": "Rope Ladder or Climbing Aid",
+   "desc": "A sturdy, portable ladder that can be used to reach elevated areas or practice rescue skills.",
+   "why": "It offers practical lessons in rescue scenarios, climbing, and problem-solving."
+  },
+  {
+   "n": 45,
+   "name": "Camp Dutch Oven",
+   "desc": "A heavy-duty cast iron pot used for cooking meals over a fire.",
+   "why": "It’s perfect for teaching Dutch oven cooking, a classic Scouting tradition that emphasizes meal variety and teamwork."
+  },
+  {
+   "n": 46,
+   "name": "Personal Locator Beacon (PLB)",
+   "desc": "A compact, handheld device that sends an emergency distress signal via satellite.",
+   "why": "It’s a critical piece of safety gear for remote trips, teaching Scouts about emergency preparedness and technology in the backcountry."
+  },
+  {
+   "n": 47,
+   "name": "Camp Hatchet",
+   "desc": "A small, durable hatchet for chopping wood and other campsite tasks.",
+   "why": "It teaches tool safety, firewood preparation, and basic survival skills."
+  },
+  {
+   "n": 48,
+   "name": "Survival Bracelet",
+   "desc": "A bracelet made of paracord that can be unwound for various survival uses.",
+   "why": "It’s versatile, wearable gear that reinforces the importance of always having a piece of survival equipment ready."
+  },
+  {
+   "n": 49,
+   "name": "Reflective Tent Ropes",
+   "desc": "Ropes with built-in reflective material to prevent tripping at night.",
+   "why": "It improves camp safety and visibility during night operations."
+  },
+  {
+   "n": 50,
+   "name": "Camping Soap Sheets",
+   "desc": "Small, dissolvable soap sheets for cleaning hands or dishes in the field.",
+   "why": "It’s a lightweight, biodegradable option for teaching good hygiene practices on the trail."
+  },
+  {
+   "n": 51,
+   "name": "Inflatable Solar Lantern",
+   "desc": "A collapsible lantern that recharges via solar panels.",
+   "why": "It’s a sustainable lighting solution that reinforces the importance of using renewable energy sources while camping."
+  },
+  {
+   "n": 52,
+   "name": "Heavy-Duty Zipper Pouches",
+   "desc": "Waterproof, reusable pouches for storing valuables, electronics, or snacks.",
+   "why": "They help with organization and demonstrate the value of keeping essentials safe and dry."
+  },
+  {
+   "n": 53,
+   "name": "Cold Weather Balaclava",
+   "desc": "A full-head covering that protects from wind and cold weather.",
+   "why": "It emphasizes the importance of warmth in extreme conditions, a vital skill for winter camping."
+  },
+  {
+   "n": 54,
+   "name": "Trail Marking Tape",
+   "desc": "Bright, biodegradable tape used to mark trails temporarily.",
+   "why": "It’s helpful for navigating complex routes or marking areas for group activities, teaching navigation and safety."
+  },
+  {
+   "n": 55,
+   "name": "Microfiber Towel",
+   "desc": "A quick-drying, compact towel for use during hikes or camp activities.",
+   "why": "It’s a lightweight solution that promotes good hygiene and drying wet gear efficiently."
+  },
+  {
+   "n": 56,
+   "name": "Wooden Spoon or Spatula",
+   "desc": "A simple cooking tool for campfire cooking.",
+   "why": "It’s a practical addition to cooking kits, demonstrating that basic tools can be versatile and sustainable."
+  },
+  {
+   "n": 57,
+   "name": "Compact Camp Mirror",
+   "desc": "A small, unbreakable mirror for personal grooming or signaling.",
+   "why": "It’s useful for personal hygiene and emergency signaling, teaching dual-purpose use in gear."
+  },
+  {
+   "n": 58,
+   "name": "Quick-Dry Clothing",
+   "desc": "Lightweight clothing that dries quickly after getting wet.",
+   "why": "It’s essential for comfort and safety, teaching the importance of proper gear selection for weather adaptability."
+  },
+  {
+   "n": 59,
+   "name": "Cord Locks and Shock Cord",
+   "desc": "Adjustable cord locks for securing gear, tarps, or tents.",
+   "why": "They’re useful for tightening tarps, securing sleeping bags, and other adjustments, teaching improvisation and gear maintenance."
+  },
+  {
+   "n": 60,
+   "name": "Portable Camping Fan",
+   "desc": "A small fan that runs on batteries or USB power.",
+   "why": "It provides comfort during hot-weather camping, teaching strategies for staying cool in warmer climates."
+  },
+  {
+   "n": 61,
+   "name": "Emergency Bivvy Sack",
+   "desc": "An ultra-light, emergency sleeping bag that offers protection from rain, wind, and cold.",
+   "why": "It’s a survival tool that emphasizes emergency preparedness for unexpected overnight situations."
+  },
+  {
+   "n": 62,
+   "name": "Campfire Cooking Tripod",
+   "desc": "A tripod that holds a cooking pot or Dutch oven over a fire.",
+   "why": "It’s ideal for teaching advanced fire-based cooking methods, fostering teamwork and culinary creativity in the outdoors."
+  },
+  {
+   "n": 63,
+   "name": "Thermal Socks",
+   "desc": "Socks designed to retain heat and wick moisture away.",
+   "why": "They teach Scouts the importance of keeping feet warm and dry, which is crucial for both safety and comfort in cold conditions."
+  },
+  {
+   "n": 64,
+   "name": "All-Weather Fire Starter (e.g., Magnesium Block)",
+   "desc": "A fire-starting tool that works in all weather conditions.",
+   "why": "It reinforces survival skills, teaching Scouts how to start a fire even in wet or windy conditions."
+  },
+  {
+   "n": 65,
+   "name": "Vacuum-Sealed Food Bags",
+   "desc": "Airtight bags used to store and preserve food on longer trips.",
+   "why": "They keep food fresh, prevent leaks, and teach food storage strategies for longer backcountry expeditions."
+  },
+  {
+   "n": 66,
+   "name": "Lightweight Trail Shoes",
+   "desc": "Shoes designed for comfort, grip, and durability on trails.",
+   "why": "They promote safe and effective hiking, offering a lesson on proper gear selection for different terrains."
+  },
+  {
+   "n": 67,
+   "name": "Rope Hoist Pulley System",
+   "desc": "A simple pulley setup for hoisting food or gear up trees.",
+   "why": "It teaches mechanical advantage, rope management, and how to keep food away from wildlife."
+  },
+  {
+   "n": 68,
+   "name": "Titanium Cooking Pot",
+   "desc": "An ultralight pot for boiling water and cooking meals on the trail.",
+   "why": "It’s versatile and lightweight, demonstrating the importance of compact, efficient gear."
+  },
+  {
+   "n": 69,
+   "name": "Thermos",
+   "desc": "An insulated container for keeping liquids hot or cold.",
+   "why": "It provides hot drinks in cold conditions or cool water in the heat, highlighting versatility in gear selection."
+  },
+  {
+   "n": 70,
+   "name": "Navigation Watch with Altimeter",
+   "desc": "A watch that tracks time, altitude, and direction.",
+   "why": "It’s a high-tech option for navigation, teaching advanced outdoor skills and safety."
+  },
+  {
+   "n": 71,
+   "name": "Compression Stuff Sack",
+   "desc": "A bag designed to compress clothing or sleeping bags to save space.",
+   "why": "It teaches Scouts to pack efficiently, emphasizing space-saving techniques for longer hikes."
+  },
+  {
+   "n": 72,
+   "name": "Portable Campfire Pit",
+   "desc": "A foldable, portable pit that allows for contained fires in areas where ground fires are prohibited.",
+   "why": "It promotes responsible fire use, aligning with Leave No Trace principles."
+  },
+  {
+   "n": 73,
+   "name": "Bivy Tent",
+   "desc": "A small, lightweight, one-person shelter that provides protection from the elements.",
+   "why": "It teaches Scouts about minimalist camping and emergency shelter solutions."
+  },
+  {
+   "n": 74,
+   "name": "Thermal Neck Gaiter",
+   "desc": "A neck warmer that doubles as a face covering in cold weather.",
+   "why": "It’s versatile and compact, useful for teaching layering and cold-weather survival."
+  },
+  {
+   "n": 75,
+   "name": "Crampons or Microspikes",
+   "desc": "Traction devices that attach to boots for icy or snowy conditions.",
+   "why": "It’s a critical safety tool for winter hiking, teaching proper footing and safety in icy conditions."
+  },
+  {
+   "n": 76,
+   "name": "Snake Bite Kit",
+   "desc": "A compact kit designed to treat snake bites before professional help is available.",
+   "why": "It’s an important addition to backcountry first aid, emphasizing preparedness for unexpected encounters."
+  },
+  {
+   "n": 77,
+   "name": "Rock Climbing Chalk Bag",
+   "desc": "A small bag for storing chalk used for better grip during rock climbing.",
+   "why": "It teaches climbing safety and techniques, making it perfect for Scout climbing activities."
+  },
+  {
+   "n": 78,
+   "name": "Emergency Fire Blanket",
+   "desc": "A fire-resistant blanket that can be used to smother flames or provide emergency shelter.",
+   "why": "It reinforces safety around campfires and can be used for emergency signaling or warmth."
+  },
+  {
+   "n": 79,
+   "name": "Inflatable Sleeping Pad",
+   "desc": "An inflatable pad that offers more comfort than foam pads while still being lightweight.",
+   "why": "It highlights advancements in camping comfort and teaches Scouts about gear evolution."
+  },
+  {
+   "n": 80,
+   "name": "Laminated Map with Dry-Erase Marker",
+   "desc": "A durable map with a dry-erase surface for marking routes and taking notes.",
+   "why": "It’s a hands-on tool for teaching navigation, planning, and route-finding."
+  },
+  {
+   "n": 81,
+   "name": "Dry Bag Backpack",
+   "desc": "A waterproof backpack for river crossings or wet environments.",
+   "why": "It teaches water safety, river trekking, and gear protection strategies."
+  },
+  {
+   "n": 82,
+   "name": "Reflective Thermal Cooking Bag",
+   "desc": "A reflective bag that cooks food using retained heat, such as rice or pasta.",
+   "why": "It’s a sustainable cooking method that teaches resourcefulness and minimal fuel use."
+  },
+  {
+   "n": 83,
+   "name": "LuminAID Solar Lantern",
+   "desc": "A collapsible, solar-charged lantern that provides ambient light for the campsite.",
+   "why": "It emphasizes sustainability and efficient energy use in the field."
+  },
+  {
+   "n": 84,
+   "name": "Bear-Proof Food Container",
+   "desc": "A hard-sided container designed to keep food safe from bears.",
+   "why": "It’s a crucial safety tool that teaches Scouts about wildlife management and personal safety in bear country."
+  },
+  {
+   "n": 85,
+   "name": "Camping Clothesline with Clips",
+   "desc": "A lightweight, portable clothesline with built-in clips.",
+   "why": "It reinforces the importance of keeping gear dry, particularly in wet climates."
+  },
+  {
+   "n": 86,
+   "name": "Fishing Survival Kit",
+   "desc": "A small, waterproof container with basic fishing supplies like hooks, line, and weights.",
+   "why": "It teaches survival fishing skills and encourages self-reliance in the wild."
+  },
+  {
+   "n": 87,
+   "name": "Hand-Cranked Radio with Light",
+   "desc": "A multipurpose device that provides radio updates and a built-in flashlight.",
+   "why": "It’s a valuable emergency tool, offering communication and lighting in one compact unit."
+  },
+  {
+   "n": 88,
+   "name": "High-Altitude Stove",
+   "desc": "A stove designed to work efficiently at higher elevations, where air pressure is lower.",
+   "why": "It’s a specialized piece of gear that teaches Scouts about adapting to different environments."
+  },
+  {
+   "n": 89,
+   "name": "Duct Tape Roll",
+   "desc": "A compact roll of duct tape for emergency repairs.",
+   "why": "It’s one of the most versatile tools, useful for everything from gear repair to first aid."
+  },
+  {
+   "n": 90,
+   "name": "Handheld Anemometer",
+   "desc": "A small device that measures wind speed, useful for predicting weather changes.",
+   "why": "It’s a teaching tool for weather prediction and safety in changing conditions."
+  },
+  {
+   "n": 91,
+   "name": "Silicone Food Storage Bags",
+   "desc": "Reusable, sealable silicone bags for food storage and organization.",
+   "why": "It’s a sustainable option that encourages Scouts to reduce waste while camping."
+  },
+  {
+   "n": 92,
+   "name": "Adjustable Height Trekking Umbrella",
+   "desc": "A lightweight umbrella that attaches to a pack for hands-free rain protection.",
+   "why": "It provides a unique solution for staying dry, teaching Scouts to think outside the box."
+  },
+  {
+   "n": 93,
+   "name": "Space Blanket Poncho",
+   "desc": "A thermal emergency poncho that retains body heat while protecting from rain.",
+   "why": "It combines two survival tools in one, teaching multi-functionality in gear."
+  },
+  {
+   "n": 94,
+   "name": "Slingshot with Fishing Line Adapter",
+   "desc": "A slingshot that can be modified for fishing, designed for survival situations.",
+   "why": "It’s a creative survival tool that promotes ingenuity and resourcefulness."
+  },
+  {
+   "n": 95,
+   "name": "Solar-Powered Water Desalinator",
+   "desc": "A small device that uses solar power to turn saltwater into freshwater.",
+   "why": "It demonstrates advanced survival technology and the importance of freshwater in coastal areas."
+  },
+  {
+   "n": 96,
+   "name": "Camp Oven (Portable)",
+   "desc": "A lightweight oven that sits on a camp stove, allowing for baking in the backcountry.",
+   "why": "It expands camp cooking possibilities, teaching Scouts to prepare diverse meals outdoors."
+  },
+  {
+   "n": 97,
+   "name": "Glow-in-the-Dark Tent Stakes",
+   "desc": "Stakes that are visible at night to prevent tripping hazards.",
+   "why": "They add safety to the campsite, particularly during nighttime activities."
+  },
+  {
+   "n": 98,
+   "name": "Wrist Compass",
+   "desc": "A small, simple compass worn on the wrist for easy navigation.",
+   "why": "It teaches basic orienteering skills and is a handy backup navigation tool."
+  },
+  {
+   "n": 99,
+   "name": "All-Season Sleeping Bag",
+   "desc": "A sleeping bag designed to handle a wide range of temperatures, from warm to cold.",
+   "why": "It emphasizes the importance of proper gear selection and adaptability in various weather conditions."
+  },
+  {
+   "n": 100,
+   "name": "Camouflage Netting",
+   "desc": "A lightweight net used to conceal campsites or for use in wilderness games.",
+   "why": "It’s both a survival tool and an engaging addition for outdoor skills training."
+  }
+ ],
+ "hikes_sd": [
+  {
+   "n": 1,
+   "name": "Torrey Pines State Natural Reserve",
+   "trail": "Beach Trail Loop",
+   "location": "",
+   "distance": "2.3 miles",
+   "highlights": "Coastal views, unique sandstone formations",
+   "link": "https://www.alltrails.com/trail/us/california/torrey-pines-beach-trail-loop"
+  },
+  {
+   "n": 2,
+   "name": "Cowles Mountain",
+   "trail": "Cowles Mountain Trail",
+   "location": "",
+   "distance": "3 miles",
+   "highlights": "Panoramic views of San Diego",
+   "link": "https://www.alltrails.com/trail/us/california/cowles-mountain-trail"
+  },
+  {
+   "n": 3,
+   "name": "Iron Mountain",
+   "trail": "Iron Mountain Trail",
+   "location": "",
+   "distance": "5.2 miles",
+   "highlights": "Scenic vistas, wildflowers",
+   "link": "https://www.alltrails.com/trail/us/california/iron-mountain-trail"
+  },
+  {
+   "n": 4,
+   "name": "Mount Woodson (Potato Chip Rock)",
+   "trail": "Mount Woodson Trail",
+   "location": "",
+   "distance": "7.3 miles",
+   "highlights": "Famous Potato Chip Rock formation",
+   "link": "https://www.alltrails.com/trail/us/california/mt-woodson-trail"
+  },
+  {
+   "n": 5,
+   "name": "Cedar Creek Falls",
+   "trail": "Cedar Creek Falls Trail",
+   "location": "",
+   "distance": "5.5 miles",
+   "highlights": "Waterfall, swimming hole",
+   "link": "https://www.alltrails.com/trail/us/california/cedar-creek-falls-trail"
+  },
+  {
+   "n": 6,
+   "name": "Three Sisters Falls",
+   "trail": "Three Sisters Falls Trail",
+   "location": "",
+   "distance": "4.1 miles",
+   "highlights": "Series of waterfalls, challenging terrain",
+   "link": "https://www.alltrails.com/trail/us/california/three-sisters-falls-trail"
+  },
+  {
+   "n": 7,
+   "name": "Los Peñasquitos Canyon Preserve",
+   "trail": "Los Peñasquitos Canyon Trail",
+   "location": "",
+   "distance": "6.8 miles",
+   "highlights": "Waterfalls, diverse wildlife",
+   "link": "https://www.alltrails.com/trail/us/california/los-penasquitos-canyon-trail"
+  },
+  {
+   "n": 8,
+   "name": "Mission Trails Regional Park",
+   "trail": "Fortuna Mountain Trail",
+   "location": "",
+   "distance": "6.2 miles",
+   "highlights": "River crossings, scenic views",
+   "link": "https://www.alltrails.com/trail/us/california/fortuna-mountain-trail"
+  },
+  {
+   "n": 9,
+   "name": "Annie's Canyon Trail",
+   "trail": "",
+   "location": "Solana Beach",
+   "distance": "2.2 miles",
+   "highlights": "Sandstone walls, slot canyons",
+   "link": "https://www.alltrails.com/trail/us/california/annies-canyon-trail"
+  },
+  {
+   "n": 10,
+   "name": "Sunset Cliffs Natural Park",
+   "trail": "Sunset Cliffs Trail",
+   "location": "",
+   "distance": "2.4 miles",
+   "highlights": "Coastal bluffs, ocean views",
+   "link": "https://www.alltrails.com/trail/us/california/sunset-cliffs-trail"
+  },
+  {
+   "n": 11,
+   "name": "Black Mountain Open Space Park",
+   "trail": "Black Mountain Loop",
+   "location": "",
+   "distance": "4.2 miles",
+   "highlights": "Panoramic city views",
+   "link": "https://www.alltrails.com/trail/us/california/black-mountain-loop"
+  },
+  {
+   "n": 12,
+   "name": "Cuyamaca Peak",
+   "trail": "Cuyamaca Peak via Lookout Road",
+   "location": "",
+   "distance": "5.6 miles",
+   "highlights": "Second-highest point in San Diego County",
+   "link": "https://www.alltrails.com/trail/us/california/cuyamaca-peak-via-lookout-road"
+  },
+  {
+   "n": 13,
+   "name": "Stonewall Peak",
+   "trail": "Stonewall Peak Trail",
+   "location": "",
+   "distance": "4 miles",
+   "highlights": "360-degree views from the summit",
+   "link": "https://www.alltrails.com/trail/us/california/stonewall-peak-trail"
+  },
+  {
+   "n": 14,
+   "name": "Balboa Park",
+   "trail": "Balboa Park Loop",
+   "location": "",
+   "distance": "4.5 miles",
+   "highlights": "Gardens, museums, architecture",
+   "link": "https://www.alltrails.com/trail/us/california/balboa-park-loop"
+  },
+  {
+   "n": 15,
+   "name": "Lake Poway to Mount Woodson",
+   "trail": "Lake Poway Trail",
+   "location": "",
+   "distance": "6.4 miles",
+   "highlights": "Lake views, access to Potato Chip Rock",
+   "link": "https://www.alltrails.com/trail/us/california/lake-poway-to-mt-woodson"
+  },
+  {
+   "n": 16,
+   "name": "Ho Chi Minh Trail",
+   "trail": "",
+   "location": "La Jolla",
+   "distance": "0.6 miles",
+   "highlights": "Coastal trail, unique rock formations",
+   "link": "https://www.alltrails.com/trail/us/california/ho-chi-minh-trail"
+  },
+  {
+   "n": 17,
+   "name": "Piedras Pintadas Trail",
+   "trail": "",
+   "location": "Escondido",
+   "distance": "3.8 miles",
+   "highlights": "Lake Hodges views, historical sites",
+   "link": "https://www.alltrails.com/trail/us/california/piedras-pintadas-trail"
+  },
+  {
+   "n": 18,
+   "name": "Batiquitos Lagoon Trail",
+   "trail": "",
+   "location": "Carlsbad",
+   "distance": "3.2 miles",
+   "highlights": "Lagoon views, birdwatching",
+   "link": "https://www.alltrails.com/trail/us/california/batiquitos-lagoon-trail"
+  },
+  {
+   "n": 19,
+   "name": "Guajome Regional Park Trail",
+   "trail": "",
+   "location": "Oceanside",
+   "distance": "4.3 miles",
+   "highlights": "Lakes, wetlands, wildlife",
+   "link": "https://www.alltrails.com/trail/us/california/guajome-regional-park-trail"
+  },
+  {
+   "n": 20,
+   "name": "Blue Sky Ecological Reserve",
+   "trail": "",
+   "location": "Poway",
+   "distance": "4.8 miles",
+   "highlights": "Riparian forest, oak trees, access to Lake Ramona",
+   "link": "https://www.alltrails.com/trail/us/california/blue-sky-ecological-reserve"
+  },
+  {
+   "n": 21,
+   "name": "El Cajon Mountain (El Capitan)",
+   "trail": "",
+   "location": "Lakeside",
+   "distance": "11 miles",
+   "highlights": "Steep inclines, panoramic summit views",
+   "link": "https://www.alltrails.com/trail/us/california/el-cajon-mountain-trail"
+  },
+  {
+   "n": 22,
+   "name": "Pyles Peak via Cowles Mountain",
+   "trail": "",
+   "location": "San Diego",
+   "distance": "5.5 miles",
+   "highlights": "Less crowded than Cowles Mountain, great city views",
+   "link": "https://www.alltrails.com/trail/us/california/pyles-peak-trail"
+  },
+  {
+   "n": 23,
+   "name": "Santa Margarita River Trail",
+   "trail": "",
+   "location": "Fallbrook",
+   "distance": "5 miles",
+   "highlights": "Riverside trail, shaded by trees",
+   "link": "https://www.alltrails.com/trail/us/california/santa-margarita-river-trail"
+  },
+  {
+   "n": 24,
+   "name": "Hollenbeck Canyon Trail",
+   "trail": "",
+   "location": "Jamul",
+   "distance": "5.5 miles",
+   "highlights": "Rolling hills, seasonal creek",
+   "link": "https://www.alltrails.com/trail/us/california/hollenbeck-canyon-trail"
+  },
+  {
+   "n": 25,
+   "name": "Big Laguna Trail",
+   "trail": "",
+   "location": "Laguna Mountains",
+   "distance": "10.1 miles",
+   "highlights": "Pine forests, meadows, Laguna Lake",
+   "link": "https://www.alltrails.com/trail/us/california/big-laguna-trail"
+  }
+ ],
+ "campouts_sd": [
+  {
+   "n": 1,
+   "name": "Cuyamaca Rancho State Park",
+   "features": "Scenic mountain camping, hiking, fishing",
+   "link": "https://www.parks.ca.gov/?page_id=667"
+  },
+  {
+   "n": 2,
+   "name": "Palomar Mountain State Park",
+   "features": "Dense forest, great stargazing",
+   "link": "https://www.parks.ca.gov/?page_id=637"
+  },
+  {
+   "n": 3,
+   "name": "William Heise County Park",
+   "features": "Quiet, pine/oak forest camping",
+   "link": "https://www.sdparks.org/content/sdparks/en/park-pages/WilliamHeise.html"
+  },
+  {
+   "n": 4,
+   "name": "Anza-Borrego Desert State Park",
+   "features": "Primitive desert camping, off-roading",
+   "link": "https://www.parks.ca.gov/?page_id=638"
+  },
+  {
+   "n": 5,
+   "name": "Kumeyaay Lake Campground",
+   "features": "Near Mission Trails, great for quick getaways",
+   "link": "https://www.sandiego.gov/mtt/park/kumeyaay"
+  },
+  {
+   "n": 6,
+   "name": "Dos Picos County Park",
+   "features": "Family-friendly, great for beginners",
+   "link": "https://www.sdparks.org/content/sdparks/en/park-pages/DosPicos.html"
+  },
+  {
+   "n": 7,
+   "name": "Silver Strand State Beach",
+   "features": "Oceanfront RV camping",
+   "link": "https://www.parks.ca.gov/?page_id=654"
+  },
+  {
+   "n": 8,
+   "name": "Tamarisk Grove Campground",
+   "features": "Cozy desert camping with cabins",
+   "link": "https://www.parks.ca.gov/?page_id=638"
+  },
+  {
+   "n": 9,
+   "name": "Lake Cuyamaca Campground",
+   "features": "Lake camping, fishing, boating",
+   "link": "https://lakecuyamaca.org/"
+  },
+  {
+   "n": 10,
+   "name": "Lake Morena County Park",
+   "features": "Lakeside camping, good for fishing",
+   "link": "https://www.sdparks.org/content/sdparks/en/park-pages/LakeMorena.html"
+  },
+  {
+   "n": 11,
+   "name": "Oceanside Harbor Beach Campground",
+   "features": "Beachside RV camping",
+   "link": "https://visitoceanside.org/blog/oceanside-harbor-camping/"
+  },
+  {
+   "n": 12,
+   "name": "Bow Willow Campground (Anza-Borrego)",
+   "features": "Remote desert escape",
+   "link": "https://www.parks.ca.gov/?page_id=638"
+  },
+  {
+   "n": 13,
+   "name": "Vallecito County Park",
+   "features": "Historic Butterfield Stage Stop",
+   "link": "https://www.sdparks.org/content/sdparks/en/park-pages/Vallecito.html"
+  },
+  {
+   "n": 14,
+   "name": "Laguna Campground",
+   "features": "High-elevation pine forest camping",
+   "link": "https://www.fs.usda.gov/recarea/cleveland/recarea/?recid=47420"
+  },
+  {
+   "n": 15,
+   "name": "Fry Creek Campground",
+   "features": "Small, quiet mountain campground",
+   "link": "https://www.fs.usda.gov/recarea/cleveland/recarea/?recid=47522"
+  },
+  {
+   "n": 16,
+   "name": "Green Valley Campground",
+   "features": "Family-friendly, near waterfalls",
+   "link": "https://www.parks.ca.gov/?page_id=667"
+  },
+  {
+   "n": 17,
+   "name": "Sweetwater Summit Regional Park",
+   "features": "Great for RV camping",
+   "link": "https://www.sdparks.org/content/sdparks/en/park-pages/SweetwaterSummit.html"
+  },
+  {
+   "n": 18,
+   "name": "Tijuana River Valley Campground",
+   "features": "Coastal wetlands camping",
+   "link": "https://www.sdparks.org/content/sdparks/en/park-pages/TijuanaRV.html"
+  },
+  {
+   "n": 19,
+   "name": "San Elijo State Beach",
+   "features": "Cliffside camping, surfing",
+   "link": "https://www.parks.ca.gov/?page_id=662"
+  },
+  {
+   "n": 20,
+   "name": "Carlsbad State Beach Campground",
+   "features": "Beach camping with full amenities",
+   "link": "https://www.parks.ca.gov/?page_id=653"
+  },
+  {
+   "n": 21,
+   "name": "Santee Lakes Recreation Preserve",
+   "features": "Lakeside camping, great for fishing",
+   "link": "https://www.santeelakes.com/"
+  },
+  {
+   "n": 22,
+   "name": "Cibbets Flat Campground",
+   "features": "Quiet mountain escape",
+   "link": "https://www.fs.usda.gov/recarea/cleveland/recarea/?recid=47494"
+  },
+  {
+   "n": 23,
+   "name": "Indian Flats Campground",
+   "features": "Secluded camping in Cleveland National Forest",
+   "link": "https://www.fs.usda.gov/recarea/cleveland/recarea/?recid=47494"
+  },
+  {
+   "n": 24,
+   "name": "Mile High Trail Camp (Palomar)",
+   "features": "Remote backpacking campsite",
+   "link": "https://www.parks.ca.gov/?page_id=637"
+  },
+  {
+   "n": 25,
+   "name": "Lake Jennings Campground",
+   "features": "Fishing, family-friendly camping",
+   "link": "https://www.lakejennings.org/"
+  }
+ ],
+ "hikes_outside": [
+  {
+   "n": 1,
+   "name": "San Gorgonio Mountain (via Vivian Creek Trail)",
+   "location": "San Bernardino National Forest, CA",
+   "distance": "17.3 miles (out & back)",
+   "difficulty": "Strenuous",
+   "gain": "5,422 ft",
+   "notes": "Highest peak in SoCal (11,503 ft). Requires a permit.",
+   "camping": "San Gorgonio Wilderness campsites or Barton Flats Campground"
+  },
+  {
+   "n": 2,
+   "name": "Mount San Jacinto (via Marion Mountain Trail)",
+   "location": "San Jacinto State Park, CA",
+   "distance": "13.2 miles (out & back)",
+   "difficulty": "Strenuous",
+   "gain": "4,600 ft",
+   "notes": "Incredible alpine views. Can use the tram from Palm Springs to shorten the hike.",
+   "camping": "Idyllwild Campground or wilderness camping"
+  },
+  {
+   "n": 3,
+   "name": "Cucamonga Peak",
+   "location": "Angeles National Forest, CA",
+   "distance": "11.6 miles (out & back)",
+   "difficulty": "Strenuous",
+   "gain": "3,951 ft",
+   "notes": "Part of the Six-Pack of Peaks challenge. Stunning summit views.",
+   "camping": "Icehouse Saddle Campground"
+  },
+  {
+   "n": 4,
+   "name": "San Bernardino Peak",
+   "location": "San Bernardino National Forest, CA",
+   "distance": "16.5 miles (out & back)",
+   "difficulty": "Strenuous",
+   "gain": "4,702 ft",
+   "notes": "Great views of Big Bear and surrounding mountains.",
+   "camping": "Limber Pine Bench Camp"
+  },
+  {
+   "n": 5,
+   "name": "Joshua Tree – Ryan Mountain",
+   "location": "Joshua Tree National Park, CA",
+   "distance": "3 miles (out & back)",
+   "difficulty": "Moderate",
+   "gain": "1,070 ft",
+   "notes": "Best short hike in Joshua Tree. Great sunrise or sunset hike.",
+   "camping": "Hidden Valley Campground, Jumbo Rocks Campground"
+  },
+  {
+   "n": 6,
+   "name": "Joshua Tree – Lost Palms Oasis",
+   "location": "Joshua Tree National Park, CA",
+   "distance": "7.2 miles (out & back)",
+   "difficulty": "Moderate",
+   "gain": "1,030 ft",
+   "notes": "Unique desert oasis with palm trees and wildlife.",
+   "camping": "Cottonwood Campground"
+  },
+  {
+   "n": 7,
+   "name": "Big Pine Lakes",
+   "location": "Inyo National Forest, CA",
+   "distance": "15.3 miles (out & back)",
+   "difficulty": "Strenuous",
+   "gain": "3,900 ft",
+   "notes": "Iconic turquoise alpine lakes. Requires permits.",
+   "camping": "Wilderness camping near the lakes"
+  },
+  {
+   "n": 8,
+   "name": "Mount Baldy (via Devil’s Backbone)",
+   "location": "Angeles National Forest, CA",
+   "distance": "11.3 miles (loop)",
+   "difficulty": "Strenuous",
+   "gain": "3,990 ft",
+   "notes": "One of the most popular SoCal summits.",
+   "camping": "Manker Flats Campground"
+  },
+  {
+   "n": 9,
+   "name": "Mt. Baden-Powell",
+   "location": "Angeles National Forest, CA",
+   "distance": "8.9 miles (out & back)",
+   "difficulty": "Moderate",
+   "gain": "2,820 ft",
+   "notes": "Views of the Mojave Desert and San Gabriels.",
+   "camping": "Little Jimmy Campground"
+  },
+  {
+   "n": 10,
+   "name": "San Gabriel Peak",
+   "location": "Angeles National Forest, CA",
+   "distance": "3.9 miles (out & back)",
+   "difficulty": "Moderate",
+   "gain": "1,200 ft",
+   "notes": "Historic Cold War lookout at the summit.",
+   "camping": "Chilao Campground"
+  },
+  {
+   "n": 11,
+   "name": "Havasu Falls",
+   "location": "Havasupai Indian Reservation, AZ",
+   "distance": "20 miles (round trip)",
+   "difficulty": "Strenuous",
+   "gain": "2,500 ft",
+   "notes": "Permit required. Stunning turquoise waterfalls.",
+   "camping": "Havasupai Campground"
+  },
+  {
+   "n": 12,
+   "name": "Humphreys Peak",
+   "location": "Flagstaff, AZ",
+   "distance": "10.7 miles (out & back)",
+   "difficulty": "Strenuous",
+   "gain": "3,395 ft",
+   "notes": "Highest peak in Arizona at 12,633 ft.",
+   "camping": "Lockett Meadow Campground"
+  },
+  {
+   "n": 13,
+   "name": "Bright Angel Trail (Grand Canyon)",
+   "location": "Grand Canyon National Park, AZ",
+   "distance": "15.6 miles (out & back)",
+   "difficulty": "Strenuous",
+   "gain": "4,478 ft",
+   "notes": "Spectacular descent into the canyon.",
+   "camping": "Indian Garden Campground"
+  },
+  {
+   "n": 14,
+   "name": "Cathedral Rock",
+   "location": "Sedona, AZ",
+   "distance": "1.2 miles (out & back)",
+   "difficulty": "Moderate",
+   "gain": "744 ft",
+   "notes": "Iconic Sedona red rock formations.",
+   "camping": "Manzanita Campground"
+  },
+  {
+   "n": 15,
+   "name": "Devil’s Bridge",
+   "location": "Sedona, AZ",
+   "distance": "4.2 miles (out & back)",
+   "difficulty": "Moderate",
+   "gain": "564 ft",
+   "notes": "Famous sandstone arch with panoramic views.",
+   "camping": "Pine Flat Campground"
+  },
+  {
+   "n": 16,
+   "name": "Mount Charleston",
+   "location": "Spring Mountains, NV",
+   "distance": "16.6 miles (out & back)",
+   "difficulty": "Strenuous",
+   "gain": "4,948 ft",
+   "notes": "Highest peak near Las Vegas.",
+   "camping": "Fletcher View Campground"
+  },
+  {
+   "n": 17,
+   "name": "Red Rock Canyon – Calico Tanks Trail",
+   "location": "Red Rock Canyon, NV",
+   "distance": "2.3 miles (out & back)",
+   "difficulty": "Moderate",
+   "gain": "400 ft",
+   "notes": "Great views of Las Vegas and rock scrambling.",
+   "camping": "Red Rock Campground"
+  },
+  {
+   "n": 18,
+   "name": "Angels Landing",
+   "location": "Zion National Park, UT",
+   "distance": "5.4 miles (out & back)",
+   "difficulty": "Strenuous",
+   "gain": "1,488 ft",
+   "notes": "Famous for its steep drop-offs. Requires a permit.",
+   "camping": "Watchman Campground"
+  },
+  {
+   "n": 19,
+   "name": "Half Dome",
+   "location": "Yosemite National Park, CA",
+   "distance": "17 miles (out & back)",
+   "difficulty": "Very Strenuous",
+   "gain": "5,164 ft",
+   "notes": "Cables required for the final climb. Permit required.",
+   "camping": "Little Yosemite Valley Campground"
+  },
+  {
+   "n": 20,
+   "name": "Clouds Rest",
+   "location": "Yosemite National Park, CA",
+   "distance": "14.5 miles (out & back)",
+   "difficulty": "Strenuous",
+   "gain": "3,166 ft",
+   "notes": "One of the best views in Yosemite.",
+   "camping": "Tuolumne Meadows Campground"
+  }
+ ],
+ "backpacking": [
+  {
+   "n": 1,
+   "route": "Green Valley ⟶ Granite Springs Primitive Camp (Cuyamaca Rancho SP)",
+   "miles": "4 mi",
+   "gain": "≈950 ft",
+   "notes": "Well‑signed Harvey Moore Trail leaves Green Valley CG and rolls up oak and chaparral to a secluded horse‑/hiker‑only camp with pit toilet and hitching rails. Reserve a Cuyamaca Primitive Camp permit at the Paso Picacho kiosk before you start."
+  },
+  {
+   "n": 2,
+   "route": "West Mesa TH ⟶ Arroyo Seco Primitive Camp (Cuyamaca)",
+   "miles": "3.6 mi",
+   "gain": "≈600 ft descent then gentle climb",
+   "notes": "Easy grade on West Mesa Fire Road makes this a perfect first “load‑carry.” Same permit system as #1; water is seasonal at the camp’s spring."
+  },
+  {
+   "n": 3,
+   "route": "Barker Valley Spur Trail (Palomar Mountains, Cleveland NF)",
+   "miles": "3 mi",
+   "gain": "≈1,050 ft down",
+   "notes": "A swooping descent through manzanita into a grassy valley on the West Fork San Luis Rey River. Adventure Pass + Palomar Wilderness permit required; creek usually reliable through late spring. Climb the same 1,000 ft out on Sunday."
+  },
+  {
+   "n": 4,
+   "route": "Penny Pines TH ⟶ Big Laguna Meadow dispersed zone (Laguna Mtns.)",
+   "miles": "3.5 mi",
+   "gain": "≈250 ft",
+   "notes": "Stroll PCT & Big Laguna Trail along the escarpment, camp east of the Recreation‑Area boundary (free Descanso Ranger District dispersed permit needed; no fires). Sunset over Storm Canyon is spectacular."
+  },
+  {
+   "n": 5,
+   "route": "Horse Heaven pull‑out ⟶ Foster Point (Laguna Mtns.)",
+   "miles": "2.6 mi",
+   "gain": "≈350 ft",
+   "notes": "Short but punchy: shoulder the big packs, crest the PCT to a 6,300‑ft promontory above Anza‑Borrego, then backtrack ½ mi to flat pine duff just outside the no‑camp zone (permit as in #4). Great for newer Scouts who’ve never hauled full weight."
+  },
+  {
+   "n": 6,
+   "route": "Lake Morena PCT lot ⟶ Cottonwood Creek bridge",
+   "miles": "4 mi",
+   "gain": "≈400 ft",
+   "notes": "Section‑A classic: rolling chaparral, big granite, and a reliable creek in early spring. Dry‑camp above the wash or use established flats east of the bridge. Adventure Pass for parking."
+  },
+  {
+   "n": 7,
+   "route": "Espinosa Trail ⟶ Horsethief/Pine Valley Creek (Pine Creek Wilderness)",
+   "miles": "1.7 mi",
+   "gain": "‑400 ft",
+   "notes": "Steep drop to oak‑shaded pools—perfect water‑treatment practice. Free Pine Creek Wilderness permit plus Adventure Pass for trailhead. Watch poison oak."
+  },
+  {
+   "n": 8,
+   "route": "Kitchen Creek Road ⟶ Kitchen Creek Falls (PCT)",
+   "miles": "1.8 mi",
+   "gain": "‑300 ft",
+   "notes": "Seasonal cascades in a granite chute. Flat benches near the falls make cozy sites; dry except after storms so haul water. No permit, but Adventure Pass for parking."
+  },
+  {
+   "n": 9,
+   "route": "Culp Valley Primitive Camp ⟶ Peña Spring loop (Anza‑Borrego DSP)",
+   "miles": "1.8 mi (loop)",
+   "gain": "<200 ft",
+   "notes": "Drive to free primitive camp at 3,400 ft, shoulder packs on Saturday afternoon, make the scenic loop to Peña Spring, and pick a sheltered boulder nook for the night. Vault toilets but no water."
+  },
+  {
+   "n": 10,
+   "route": "Borrego Palm Canyon TH ⟶ 3rd Oasis backcountry zone (Anza‑Borrego)",
+   "miles": "1.5 mi",
+   "gain": "≈450 ft",
+   "notes": "Carry packs past the main crowd; beyond the signed “third crossing” camping is allowed ½ mi farther up‑canyon. Seasonal stream, gorgeous fan‑palms, and frequent bighorn‑sheep sightings. Register at the kiosk; ground stoves only (no wood fires)."
+  }
+ ]
+}
